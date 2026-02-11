@@ -1,0 +1,4 @@
+The inversion pressure is 806.67.
+The inversion height is 2005.91 meters.
+The inversion temperature is 8.28 Celsius.
+The inversion dew point is 1.97.

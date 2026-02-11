@@ -1,0 +1,356 @@
+START DATE,START TIME,START TIME ET,SUBJECT,LOCATION,DESCRIPTION,END DATE,END DATE ET,END TIME,END TIME ET,REMINDER OFF,REMINDER ON,REMINDER DATE,REMINDER TIME,REMINDER TIME ET,SHOWTIMEAS FREE,SHOWTIMEAS BUSY
+02/22/25,01:05 PM,01:05 PM,Braves at Twins,Lee Health Sports Complex - Fort Myers,"Local Radio: WCCO 830- The Wolf 102.9 FM- Audacy",02/22/25,02/22/25,04:05 PM,04:05 PM,FALSE,TRUE,02/22/25,12:05 PM,12:05 PM,FREE,BUSY
+02/23/25,12:05 PM,01:05 PM,Twins at Pirates,LECOM Park - Bradenton,"Local Radio: WCCO 830- The Wolf 102.9 FM- Audacy",02/23/25,02/23/25,03:05 PM,04:05 PM,FALSE,TRUE,02/23/25,11:05 AM,12:05 PM,FREE,BUSY
+02/25/25,01:05 PM,01:05 PM,Yankees at Twins,Lee Health Sports Complex - Fort Myers,"Local Radio: Audacy",02/25/25,02/25/25,04:05 PM,04:05 PM,FALSE,TRUE,02/25/25,12:05 PM,12:05 PM,FREE,BUSY
+02/26/25,12:05 PM,01:05 PM,Twins at Tigers,Publix Field at Joker Marchant Stadium - Lakeland,"",02/26/25,02/26/25,03:05 PM,04:05 PM,FALSE,TRUE,02/26/25,11:05 AM,12:05 PM,FREE,BUSY
+02/27/25,01:05 PM,01:05 PM,Pirates at Twins,Lee Health Sports Complex - Fort Myers,"Local Radio: Audacy",02/27/25,02/27/25,04:05 PM,04:05 PM,FALSE,TRUE,02/27/25,12:05 PM,12:05 PM,FREE,BUSY
+02/28/25,01:05 PM,01:05 PM,Orioles at Twins,Lee Health Sports Complex - Fort Myers,"Local Radio: WCCO 830- Audacy App 92.3 HD2- The Wolf 102.9 FM",02/28/25,02/28/25,04:05 PM,04:05 PM,FALSE,TRUE,02/28/25,12:05 PM,12:05 PM,FREE,BUSY
+03/01/25,12:05 PM,01:05 PM,Twins at Red Sox,JetBlue Park - Ft. Myers,"Local TV: Twins.TV Presented by Progressive ----- Local Radio: WCCO 830- The Wolf 102.9 FM- Audacy",03/01/25,03/01/25,03:05 PM,04:05 PM,FALSE,TRUE,03/01/25,11:05 AM,12:05 PM,FREE,BUSY
+03/02/25,01:05 PM,01:05 PM,Rays at Twins,Lee Health Sports Complex - Fort Myers,"Local Radio: WCCO 830- Audacy- The Wolf 102.9 FM",03/02/25,03/02/25,04:05 PM,04:05 PM,FALSE,TRUE,03/02/25,12:05 PM,12:05 PM,FREE,BUSY
+03/04/25,12:05 PM,01:05 PM,Twins at Braves,CoolToday Park - North Port,"",03/04/25,03/04/25,03:05 PM,04:05 PM,FALSE,TRUE,03/04/25,11:05 AM,12:05 PM,FREE,BUSY
+03/05/25,01:05 PM,01:05 PM,Orioles at Twins,Lee Health Sports Complex - Fort Myers,"Local Radio: Audacy App 92.3 HD2",03/05/25,03/05/25,04:05 PM,04:05 PM,FALSE,TRUE,03/05/25,12:05 PM,12:05 PM,FREE,BUSY
+03/06/25,12:05 PM,01:05 PM,Twins at Yankees,George M. Steinbrenner Field - Tampa,"Local TV: ESPN",03/06/25,03/06/25,03:05 PM,04:05 PM,FALSE,TRUE,03/06/25,11:05 AM,12:05 PM,FREE,BUSY
+03/07/25,01:05 PM,01:05 PM,Braves at Twins,Lee Health Sports Complex - Fort Myers,"Local Radio: WCCO 830- The Wolf 102.9 FM- Audacy",03/07/25,03/07/25,04:05 PM,04:05 PM,FALSE,TRUE,03/07/25,12:05 PM,12:05 PM,FREE,BUSY
+03/07/25,12:05 PM,01:05 PM,Twins at Rays,Charlotte Sports Park - Port Charlotte,"",03/07/25,03/07/25,03:05 PM,04:05 PM,FALSE,TRUE,03/07/25,11:05 AM,12:05 PM,FREE,BUSY
+03/08/25,01:05 PM,01:05 PM,Red Sox at Twins,Lee Health Sports Complex - Fort Myers,"Local Radio: WCCO 830- The Wolf 102.9 FM- Audacy",03/08/25,03/08/25,04:05 PM,04:05 PM,FALSE,TRUE,03/08/25,12:05 PM,12:05 PM,FREE,BUSY
+03/09/25,12:05 PM,01:05 PM,Twins at Orioles,Ed Smith Stadium - Sarasota,"Local Radio: WCCO 830- The Wolf 102.9 FM- Audacy",03/09/25,03/09/25,03:05 PM,04:05 PM,FALSE,TRUE,03/09/25,11:05 AM,12:05 PM,FREE,BUSY
+03/10/25,01:05 PM,01:05 PM,Phillies at Twins,Lee Health Sports Complex - Fort Myers,"Local Radio: Audacy",03/10/25,03/10/25,04:05 PM,04:05 PM,FALSE,TRUE,03/10/25,12:05 PM,12:05 PM,FREE,BUSY
+03/11/25,12:07 PM,01:07 PM,Twins at Blue Jays,TD Ballpark - Dunedin,"Local TV: Twins.TV Presented by Progressive",03/11/25,03/11/25,03:07 PM,04:07 PM,FALSE,TRUE,03/11/25,11:07 AM,12:07 PM,FREE,BUSY
+03/12/25,05:05 PM,06:05 PM,Twins at Red Sox,JetBlue Park - Ft. Myers,"",03/12/25,03/12/25,08:05 PM,09:05 PM,FALSE,TRUE,03/12/25,04:05 PM,05:05 PM,FREE,BUSY
+03/13/25,01:05 PM,01:05 PM,Pirates at Twins,Lee Health Sports Complex - Fort Myers,"Local Radio: Audacy",03/13/25,03/13/25,04:05 PM,04:05 PM,FALSE,TRUE,03/13/25,12:05 PM,12:05 PM,FREE,BUSY
+03/14/25,05:05 PM,06:05 PM,Twins at Orioles,Ed Smith Stadium - Sarasota,"",03/14/25,03/14/25,08:05 PM,09:05 PM,FALSE,TRUE,03/14/25,04:05 PM,05:05 PM,FREE,BUSY
+03/14/25,06:05 PM,06:05 PM,Rays at Twins,Lee Health Sports Complex - Fort Myers,"Local Radio: WCCO 830- The Wolf 102.9 FM- Audacy",03/14/25,03/14/25,09:05 PM,09:05 PM,FALSE,TRUE,03/14/25,05:05 PM,05:05 PM,FREE,BUSY
+03/15/25,05:05 PM,06:05 PM,Twins at Braves,CoolToday Park - North Port,"Local Radio: WCCO 830- The Wolf 102.9 FM- Audacy",03/15/25,03/15/25,08:05 PM,09:05 PM,FALSE,TRUE,03/15/25,04:05 PM,05:05 PM,FREE,BUSY
+03/16/25,01:05 PM,01:05 PM,Red Sox at Twins,Lee Health Sports Complex - Fort Myers,"Local TV: Twins.TV Presented by Progressive ----- Local Radio: WCCO 830- The Wolf 102.9 FM- Audacy",03/16/25,03/16/25,04:05 PM,04:05 PM,FALSE,TRUE,03/16/25,12:05 PM,12:05 PM,FREE,BUSY
+03/17/25,12:05 PM,01:05 PM,Twins at Pirates,LECOM Park - Bradenton,"Local TV: Twins.TV Presented by Progressive",03/17/25,03/17/25,03:05 PM,04:05 PM,FALSE,TRUE,03/17/25,11:05 AM,12:05 PM,FREE,BUSY
+03/18/25,01:05 PM,01:05 PM,Tigers at Twins,Lee Health Sports Complex - Fort Myers,"Local Radio: Audacy",03/18/25,03/18/25,04:05 PM,04:05 PM,FALSE,TRUE,03/18/25,12:05 PM,12:05 PM,FREE,BUSY
+03/20/25,06:05 PM,06:05 PM,Red Sox at Twins,Lee Health Sports Complex - Fort Myers,"Local TV: Twins.TV Presented by Progressive ----- Local Radio: WCCO 830- The Wolf 102.9 FM- Audacy",03/20/25,03/20/25,09:05 PM,09:05 PM,FALSE,TRUE,03/20/25,05:05 PM,05:05 PM,FREE,BUSY
+03/21/25,12:05 PM,01:05 PM,Twins at Phillies,BayCare Ballpark - Clearwater,"Local TV: MLBN (out-of-market only)",03/21/25,03/21/25,03:05 PM,04:05 PM,FALSE,TRUE,03/21/25,11:05 AM,12:05 PM,FREE,BUSY
+03/22/25,01:05 PM,01:05 PM,Blue Jays at Twins,Lee Health Sports Complex - Fort Myers,"Local TV: Twins.TV Presented by Progressive ----- Local Radio: WCCO 830- The Wolf 102.9 FM- Audacy",03/22/25,03/22/25,04:05 PM,04:05 PM,FALSE,TRUE,03/22/25,12:05 PM,12:05 PM,FREE,BUSY
+03/23/25,12:05 PM,01:05 PM,Twins at Red Sox,JetBlue Park - Ft. Myers,"Local Radio: WCCO 830- The Wolf 102.9 FM- Audacy",03/23/25,03/23/25,03:05 PM,04:05 PM,FALSE,TRUE,03/23/25,11:05 AM,12:05 PM,FREE,BUSY
+03/24/25,01:05 PM,01:05 PM,Pirates at Twins,Lee Health Sports Complex - Fort Myers,"Local TV: Twins.TV Presented by Progressive",03/24/25,03/24/25,04:05 PM,04:05 PM,FALSE,TRUE,03/24/25,12:05 PM,12:05 PM,FREE,BUSY
+03/25/25,01:05 PM,01:05 PM,Rockies at Twins,Lee Health Sports Complex - Fort Myers,"Local TV: Twins.TV Presented by Progressive- MLBN (out-of-market only)",03/25/25,03/25/25,04:05 PM,04:05 PM,FALSE,TRUE,03/25/25,12:05 PM,12:05 PM,FREE,BUSY
+03/27/25,03:15 PM,04:15 PM,Twins at Cardinals,Busch Stadium - St. Louis,"Local TV: Twins.TV Presented by Progressive ----- Local Radio: TIBN- WCCO 830- The Wolf 102.9 FM- Audacy- LosTwins.com",03/27/25,03/27/25,06:15 PM,07:15 PM,FALSE,TRUE,03/27/25,02:15 PM,03:15 PM,FREE,BUSY
+03/29/25,01:15 PM,02:15 PM,Twins at Cardinals,Busch Stadium - St. Louis,"Local TV: Twins.TV Presented by Progressive- FS1 ----- Local Radio: TIBN- WCCO 830- The Wolf 102.9 FM- Audacy",03/29/25,03/29/25,04:15 PM,05:15 PM,FALSE,TRUE,03/29/25,12:15 PM,01:15 PM,FREE,BUSY
+03/30/25,01:15 PM,02:15 PM,Twins at Cardinals,Busch Stadium - St. Louis,"Local TV: Twins.TV Presented by Progressive ----- Local Radio: TIBN- WCCO 830- The Wolf 102.9 FM- Audacy- LosTwins.com",03/30/25,03/30/25,04:15 PM,05:15 PM,FALSE,TRUE,03/30/25,12:15 PM,01:15 PM,FREE,BUSY
+03/31/25,01:10 PM,02:10 PM,Twins at White Sox,Rate Field - Chicago,"Local TV: Twins.TV Presented by Progressive ----- Local Radio: TIBN- WCCO 830- The Wolf 102.9 FM- Audacy",03/31/25,03/31/25,04:10 PM,05:10 PM,FALSE,TRUE,03/31/25,12:10 PM,01:10 PM,FREE,BUSY
+04/01/25,06:40 PM,07:40 PM,Twins at White Sox,Rate Field - Chicago,"Local TV: Twins.TV Presented by Progressive ----- Local Radio: TIBN- WCCO 830- The Wolf 102.9 FM- Audacy",04/01/25,04/01/25,09:40 PM,10:40 PM,FALSE,TRUE,04/01/25,05:40 PM,06:40 PM,FREE,BUSY
+04/02/25,01:10 PM,02:10 PM,Twins at White Sox,Rate Field - Chicago,"Local TV: Twins.TV Presented by Progressive ----- Local Radio: TIBN- WCCO 830- The Wolf 102.9 FM- Audacy",04/02/25,04/02/25,04:10 PM,05:10 PM,FALSE,TRUE,04/02/25,12:10 PM,01:10 PM,FREE,BUSY
+04/03/25,03:10 PM,04:10 PM,Astros at Twins,Target Field - Minneapolis,"Local TV: Twins.TV Presented by Progressive ----- Local Radio: TIBN- WCCO 830- The Wolf 102.9 FM- Audacy- LosTwins.com",04/03/25,04/03/25,06:10 PM,07:10 PM,FALSE,TRUE,04/03/25,02:10 PM,03:10 PM,FREE,BUSY
+04/05/25,01:10 PM,02:10 PM,Astros at Twins,Target Field - Minneapolis,"Local TV: Twins.TV Presented by Progressive ----- Local Radio: TIBN- WCCO 830- The Wolf 102.9 FM- Audacy",04/05/25,04/05/25,04:10 PM,05:10 PM,FALSE,TRUE,04/05/25,12:10 PM,01:10 PM,FREE,BUSY
+04/06/25,01:10 PM,02:10 PM,Astros at Twins,Target Field - Minneapolis,"Local TV: Twins.TV Presented by Progressive ----- Local Radio: TIBN- WCCO 830- The Wolf 102.9 FM- Audacy- LosTwins.com",04/06/25,04/06/25,04:10 PM,05:10 PM,FALSE,TRUE,04/06/25,12:10 PM,01:10 PM,FREE,BUSY
+04/07/25,06:40 PM,07:40 PM,Twins at Royals,Kauffman Stadium - Kansas City,"Local TV: Twins.TV Presented by Progressive ----- Local Radio: TIBN- WCCO 830- The Wolf 102.9 FM- Audacy",04/07/25,04/07/25,09:40 PM,10:40 PM,FALSE,TRUE,04/07/25,05:40 PM,06:40 PM,FREE,BUSY
+04/08/25,06:40 PM,07:40 PM,Twins at Royals,Kauffman Stadium - Kansas City,"Local TV: Twins.TV Presented by Progressive ----- Local Radio: TIBN- WCCO 830- The Wolf 102.9 FM- Audacy- LosTwins.com",04/08/25,04/08/25,09:40 PM,10:40 PM,FALSE,TRUE,04/08/25,05:40 PM,06:40 PM,FREE,BUSY
+04/09/25,06:40 PM,07:40 PM,Twins at Royals,Kauffman Stadium - Kansas City,"Local TV: Twins.TV Presented by Progressive ----- Local Radio: TIBN- WCCO 830- The Wolf 102.9 FM- Audacy",04/09/25,04/09/25,09:40 PM,10:40 PM,FALSE,TRUE,04/09/25,05:40 PM,06:40 PM,FREE,BUSY
+04/10/25,01:10 PM,02:10 PM,Twins at Royals,Kauffman Stadium - Kansas City,"Local TV: Twins.TV Presented by Progressive ----- Local Radio: TIBN- WCCO 830- The Wolf 102.9 FM- Audacy",04/10/25,04/10/25,04:10 PM,05:10 PM,FALSE,TRUE,04/10/25,12:10 PM,01:10 PM,FREE,BUSY
+04/11/25,07:10 PM,08:10 PM,Tigers at Twins,Target Field - Minneapolis,"Local TV: Apple TV+ ----- Local Radio: TIBN- WCCO 830- The Wolf 102.9 FM- Audacy",04/11/25,04/11/25,10:10 PM,11:10 PM,FALSE,TRUE,04/11/25,06:10 PM,07:10 PM,FREE,BUSY
+04/12/25,01:10 PM,02:10 PM,Tigers at Twins,Target Field - Minneapolis,"Local TV: Twins.TV Presented by Progressive ----- Local Radio: TIBN- WCCO 830- The Wolf 102.9 FM- Audacy",04/12/25,04/12/25,04:10 PM,05:10 PM,FALSE,TRUE,04/12/25,12:10 PM,01:10 PM,FREE,BUSY
+04/13/25,01:10 PM,02:10 PM,Tigers at Twins,Target Field - Minneapolis,"Local TV: Twins.TV Presented by Progressive ----- Local Radio: TIBN- WCCO 830- The Wolf 102.9 FM- Audacy- LosTwins.com",04/13/25,04/13/25,04:10 PM,05:10 PM,FALSE,TRUE,04/13/25,12:10 PM,01:10 PM,FREE,BUSY
+04/14/25,06:40 PM,07:40 PM,Mets at Twins,Target Field - Minneapolis,"Local TV: Twins.TV Presented by Progressive ----- Local Radio: TIBN- WCCO 830- The Wolf 102.9 FM- Audacy",04/14/25,04/14/25,09:40 PM,10:40 PM,FALSE,TRUE,04/14/25,05:40 PM,06:40 PM,FREE,BUSY
+04/15/25,06:40 PM,07:40 PM,Mets at Twins,Target Field - Minneapolis,"Local TV: Twins.TV Presented by Progressive- KMSP ----- Local Radio: TIBN- WCCO 830- The Wolf 102.9 FM- Audacy- LosTwins.com",04/15/25,04/15/25,09:40 PM,10:40 PM,FALSE,TRUE,04/15/25,05:40 PM,06:40 PM,FREE,BUSY
+04/16/25,12:10 PM,01:10 PM,Mets at Twins,Target Field - Minneapolis,"Local TV: Twins.TV Presented by Progressive ----- Local Radio: TIBN- WCCO 830- The Wolf 102.9 FM- Audacy",04/16/25,04/16/25,03:10 PM,04:10 PM,FALSE,TRUE,04/16/25,11:10 AM,12:10 PM,FREE,BUSY
+04/18/25,06:15 PM,07:15 PM,Twins at Braves,Truist Park - Atlanta,"Local TV: Apple TV+ ----- Local Radio: TIBN- WCCO 830- The Wolf 102.9 FM- Audacy",04/18/25,04/18/25,09:15 PM,10:15 PM,FALSE,TRUE,04/18/25,05:15 PM,06:15 PM,FREE,BUSY
+04/19/25,06:15 PM,07:15 PM,Twins at Braves,Truist Park - Atlanta,"Local TV: Twins.TV Presented by Progressive ----- Local Radio: TIBN- WCCO 830- The Wolf 102.9 FM- Audacy",04/19/25,04/19/25,09:15 PM,10:15 PM,FALSE,TRUE,04/19/25,05:15 PM,06:15 PM,FREE,BUSY
+04/20/25,12:35 PM,01:35 PM,Twins at Braves,Truist Park - Atlanta,"Local TV: Twins.TV Presented by Progressive ----- Local Radio: TIBN- WCCO 830- The Wolf 102.9 FM- Audacy- LosTwins.com",04/20/25,04/20/25,03:35 PM,04:35 PM,FALSE,TRUE,04/20/25,11:35 AM,12:35 PM,FREE,BUSY
+04/22/25,06:40 PM,07:40 PM,White Sox at Twins,Target Field - Minneapolis,"Local TV: Twins.TV Presented by Progressive- KMSP ----- Local Radio: TIBN- WCCO 830- The Wolf 102.9 FM- Audacy- LosTwins.com",04/22/25,04/22/25,09:40 PM,10:40 PM,FALSE,TRUE,04/22/25,05:40 PM,06:40 PM,FREE,BUSY
+04/23/25,06:40 PM,07:40 PM,White Sox at Twins,Target Field - Minneapolis,"Local TV: Twins.TV Presented by Progressive ----- Local Radio: TIBN- WCCO 830- The Wolf 102.9 FM- Audacy",04/23/25,04/23/25,09:40 PM,10:40 PM,FALSE,TRUE,04/23/25,05:40 PM,06:40 PM,FREE,BUSY
+04/24/25,12:10 PM,01:10 PM,White Sox at Twins,Target Field - Minneapolis,"Local TV: Twins.TV Presented by Progressive- MLBN (out-of-market only) ----- Local Radio: TIBN- WCCO 830- The Wolf 102.9 FM- Audacy",04/24/25,04/24/25,03:10 PM,04:10 PM,FALSE,TRUE,04/24/25,11:10 AM,12:10 PM,FREE,BUSY
+04/25/25,06:40 PM,07:40 PM,Angels at Twins,Target Field - Minneapolis,"Local TV: Twins.TV Presented by Progressive ----- Local Radio: TIBN- WCCO 830- The Wolf 102.9 FM- Audacy",04/25/25,04/25/25,09:40 PM,10:40 PM,FALSE,TRUE,04/25/25,05:40 PM,06:40 PM,FREE,BUSY
+04/26/25,01:10 PM,02:10 PM,Angels at Twins,Target Field - Minneapolis,"Local TV: Twins.TV Presented by Progressive ----- Local Radio: TIBN- WCCO 830- The Wolf 102.9 FM- Audacy",04/26/25,04/26/25,04:10 PM,05:10 PM,FALSE,TRUE,04/26/25,12:10 PM,01:10 PM,FREE,BUSY
+04/27/25,12:40 PM,01:40 PM,Angels at Twins,Target Field - Minneapolis,"Local TV: Twins.TV Presented by Progressive ----- Local Radio: TIBN- WCCO 830- The Wolf 102.9 FM- Audacy- LosTwins.com",04/27/25,04/27/25,03:40 PM,04:40 PM,FALSE,TRUE,04/27/25,11:40 AM,12:40 PM,FREE,BUSY
+04/28/25,05:10 PM,06:10 PM,Twins at Guardians,Progressive Field - Cleveland,"Local TV: Twins.TV Presented by Progressive ----- Local Radio: TIBN- WCCO 830- The Wolf 102.9 FM- Audacy",04/28/25,04/28/25,08:10 PM,09:10 PM,FALSE,TRUE,04/28/25,04:10 PM,05:10 PM,FREE,BUSY
+04/29/25,05:10 PM,06:10 PM,Twins at Guardians,Progressive Field - Cleveland,"Local TV: Twins.TV Presented by Progressive ----- Local Radio: TIBN- WCCO 830- The Wolf 102.9 FM- Audacy- LosTwins.com",04/29/25,04/29/25,08:10 PM,09:10 PM,FALSE,TRUE,04/29/25,04:10 PM,05:10 PM,FREE,BUSY
+04/30/25,05:10 PM,06:10 PM,Twins at Guardians,Progressive Field - Cleveland,"Local TV: Twins.TV Presented by Progressive ----- Local Radio: TIBN- WCCO 830- The Wolf 102.9 FM- Audacy",04/30/25,04/30/25,08:10 PM,09:10 PM,FALSE,TRUE,04/30/25,04:10 PM,05:10 PM,FREE,BUSY
+05/01/25,12:10 PM,01:10 PM,Twins at Guardians,Progressive Field - Cleveland,"Local TV: Twins.TV Presented by Progressive- MLBN (out-of-market only) ----- Local Radio: TIBN- WCCO 830- The Wolf 102.9 FM- Audacy",05/01/25,05/01/25,03:10 PM,04:10 PM,FALSE,TRUE,05/01/25,11:10 AM,12:10 PM,FREE,BUSY
+05/02/25,06:10 PM,07:10 PM,Twins at Red Sox,Fenway Park - Boston,"Local TV: Twins.TV Presented by Progressive ----- Local Radio: TIBN- WCCO 830- The Wolf 102.9 FM- Audacy",05/02/25,05/02/25,09:10 PM,10:10 PM,FALSE,TRUE,05/02/25,05:10 PM,06:10 PM,FREE,BUSY
+05/03/25,03:10 PM,04:10 PM,Twins at Red Sox,Fenway Park - Boston,"Local TV: Twins.TV Presented by Progressive- FS1 ----- Local Radio: TIBN- WCCO 830- The Wolf 102.9 FM- Audacy",05/03/25,05/03/25,06:10 PM,07:10 PM,FALSE,TRUE,05/03/25,02:10 PM,03:10 PM,FREE,BUSY
+05/04/25,12:35 PM,01:35 PM,Twins at Red Sox,Fenway Park - Boston,"Local TV: Twins.TV Presented by Progressive- MLBN (out-of-market only) ----- Local Radio: TIBN- WCCO 830- The Wolf 102.9 FM- Audacy- LosTwins.com",05/04/25,05/04/25,03:35 PM,04:35 PM,FALSE,TRUE,05/04/25,11:35 AM,12:35 PM,FREE,BUSY
+05/06/25,06:40 PM,07:40 PM,Orioles at Twins,Target Field - Minneapolis,"Local TV: Twins.TV Presented by Progressive- KMSP ----- Local Radio: TIBN- WCCO 830- The Wolf 102.9 FM- Audacy- LosTwins.com",05/06/25,05/06/25,09:40 PM,10:40 PM,FALSE,TRUE,05/06/25,05:40 PM,06:40 PM,FREE,BUSY
+05/07/25,06:40 PM,07:40 PM,Orioles at Twins,Target Field - Minneapolis,"Local TV: Twins.TV Presented by Progressive ----- Local Radio: TIBN- WCCO 830- The Wolf 102.9 FM- Audacy",05/07/25,05/07/25,09:40 PM,10:40 PM,FALSE,TRUE,05/07/25,05:40 PM,06:40 PM,FREE,BUSY
+05/08/25,12:10 PM,01:10 PM,Orioles at Twins,Target Field - Minneapolis,"Local TV: Twins.TV Presented by Progressive- MLBN (out-of-market only) ----- Local Radio: TIBN- WCCO 830- The Wolf 102.9 FM- Audacy",05/08/25,05/08/25,03:10 PM,04:10 PM,FALSE,TRUE,05/08/25,11:10 AM,12:10 PM,FREE,BUSY
+05/09/25,07:10 PM,08:10 PM,Giants at Twins,Target Field - Minneapolis,"Local TV: Apple TV+ ----- Local Radio: TIBN- WCCO 830- The Wolf 102.9 FM- Audacy",05/09/25,05/09/25,10:10 PM,11:10 PM,FALSE,TRUE,05/09/25,06:10 PM,07:10 PM,FREE,BUSY
+05/10/25,06:15 PM,07:15 PM,Giants at Twins,Target Field - Minneapolis,"Local TV: FOX- KMSP ----- Local Radio: TIBN- WCCO 830- The Wolf 102.9 FM- Audacy",05/10/25,05/10/25,09:15 PM,10:15 PM,FALSE,TRUE,05/10/25,05:15 PM,06:15 PM,FREE,BUSY
+05/11/25,01:10 PM,02:10 PM,Giants at Twins,Target Field - Minneapolis,"Local TV: Twins.TV Presented by Progressive ----- Local Radio: TIBN- WCCO 830- The Wolf 102.9 FM- Audacy- LosTwins.com",05/11/25,05/11/25,04:10 PM,05:10 PM,FALSE,TRUE,05/11/25,12:10 PM,01:10 PM,FREE,BUSY
+05/14/25,11:05 AM,12:05 PM,Twins at Orioles,Oriole Park at Camden Yards - Baltimore,"Local TV: Twins.TV Presented by Progressive ----- Local Radio: TIBN- WCCO 830- The Wolf 102.9 FM- Audacy",05/14/25,05/14/25,02:05 PM,03:05 PM,FALSE,TRUE,05/14/25,10:05 AM,11:05 AM,FREE,BUSY
+05/14/25,,,Twins at Orioles - Time TBD,Oriole Park at Camden Yards - Baltimore,"Local TV: Twins.TV Presented by Progressive ----- Local Radio: TIBN- WCCO 830- The Wolf 102.9 FM- Audacy- LosTwins.com",05/14/25,05/14/25,,,FALSE,TRUE,05/14/25,,,FREE,BUSY
+05/15/25,11:35 AM,12:35 PM,Twins at Orioles,Oriole Park at Camden Yards - Baltimore,"Local TV: Twins.TV Presented by Progressive- MLBN (out-of-market only) ----- Local Radio: TIBN- WCCO 830- The Wolf 102.9 FM- Audacy",05/15/25,05/15/25,02:35 PM,03:35 PM,FALSE,TRUE,05/15/25,10:35 AM,11:35 AM,FREE,BUSY
+05/16/25,07:10 PM,08:10 PM,Twins at Brewers,American Family Field - Milwaukee,"Local TV: Twins.TV Presented by Progressive ----- Local Radio: TIBN- WCCO 830- The Wolf 102.9 FM- Audacy",05/16/25,05/16/25,10:10 PM,11:10 PM,FALSE,TRUE,05/16/25,06:10 PM,07:10 PM,FREE,BUSY
+05/17/25,06:15 PM,07:15 PM,Twins at Brewers,American Family Field - Milwaukee,"Local TV: FOX- KMSP ----- Local Radio: TIBN- WCCO 830- The Wolf 102.9 FM- Audacy",05/17/25,05/17/25,09:15 PM,10:15 PM,FALSE,TRUE,05/17/25,05:15 PM,06:15 PM,FREE,BUSY
+05/18/25,01:10 PM,02:10 PM,Twins at Brewers,American Family Field - Milwaukee,"Local TV: Twins.TV Presented by Progressive ----- Local Radio: TIBN- WCCO 830- The Wolf 102.9 FM- Audacy- LosTwins.com",05/18/25,05/18/25,04:10 PM,05:10 PM,FALSE,TRUE,05/18/25,12:10 PM,01:10 PM,FREE,BUSY
+05/21/25,12:10 PM,01:10 PM,Guardians at Twins,Target Field - Minneapolis,"Local TV: Twins.TV Presented by Progressive ----- Local Radio: TIBN- WCCO 830- The Wolf 102.9 FM- Audacy",05/21/25,05/21/25,03:10 PM,04:10 PM,FALSE,TRUE,05/21/25,11:10 AM,12:10 PM,FREE,BUSY
+05/21/25,02:55 PM,03:55 PM,Guardians at Twins,Target Field - Minneapolis,"Local TV: Twins.TV Presented by Progressive ----- Local Radio: TIBN- WCCO 830- The Wolf 102.9 FM- Audacy",05/21/25,05/21/25,05:55 PM,06:55 PM,FALSE,TRUE,05/21/25,01:55 PM,02:55 PM,FREE,BUSY
+05/23/25,07:10 PM,08:10 PM,Royals at Twins,Target Field - Minneapolis,"Local TV: Twins.TV Presented by Progressive ----- Local Radio: TIBN- WCCO 830- The Wolf 102.9 FM- Audacy",05/23/25,05/23/25,10:10 PM,11:10 PM,FALSE,TRUE,05/23/25,06:10 PM,07:10 PM,FREE,BUSY
+05/24/25,01:10 PM,02:10 PM,Royals at Twins,Target Field - Minneapolis,"Local TV: Twins.TV Presented by Progressive ----- Local Radio: TIBN- WCCO 830- The Wolf 102.9 FM- Audacy",05/24/25,05/24/25,04:10 PM,05:10 PM,FALSE,TRUE,05/24/25,12:10 PM,01:10 PM,FREE,BUSY
+05/25/25,01:10 PM,02:10 PM,Royals at Twins,Target Field - Minneapolis,"Local TV: Twins.TV Presented by Progressive ----- Local Radio: TIBN- WCCO 830- The Wolf 102.9 FM- Audacy- LosTwins.com",05/25/25,05/25/25,04:10 PM,05:10 PM,FALSE,TRUE,05/25/25,12:10 PM,01:10 PM,FREE,BUSY
+05/26/25,06:05 PM,07:05 PM,Twins at Rays,George M. Steinbrenner Field - Tampa,"Local TV: Twins.TV Presented by Progressive- MLBN (out-of-market only) ----- Local Radio: TIBN- WCCO 830- The Wolf 102.9 FM- Audacy",05/26/25,05/26/25,09:05 PM,10:05 PM,FALSE,TRUE,05/26/25,05:05 PM,06:05 PM,FREE,BUSY
+05/27/25,06:05 PM,07:05 PM,Twins at Rays,George M. Steinbrenner Field - Tampa,"Local TV: Twins.TV Presented by Progressive ----- Local Radio: TIBN- WCCO 830- The Wolf 102.9 FM- Audacy- LosTwins.com",05/27/25,05/27/25,09:05 PM,10:05 PM,FALSE,TRUE,05/27/25,05:05 PM,06:05 PM,FREE,BUSY
+05/28/25,12:10 PM,01:10 PM,Twins at Rays,George M. Steinbrenner Field - Tampa,"Local TV: Twins.TV Presented by Progressive ----- Local Radio: TIBN- WCCO 830- The Wolf 102.9 FM- Audacy",05/28/25,05/28/25,03:10 PM,04:10 PM,FALSE,TRUE,05/28/25,11:10 AM,12:10 PM,FREE,BUSY
+05/30/25,09:10 PM,10:10 PM,Twins at Mariners,T-Mobile Park - Seattle,"Local TV: Twins.TV Presented by Progressive ----- Local Radio: TIBN- WCCO 830- The Wolf 102.9 FM- Audacy",05/31/25,05/31/25,12:10 AM,01:10 AM,FALSE,TRUE,05/30/25,08:10 PM,09:10 PM,FREE,BUSY
+05/31/25,06:15 PM,07:15 PM,Twins at Mariners,T-Mobile Park - Seattle,"Local TV: FOX- KMSP ----- Local Radio: TIBN- WCCO 830- The Wolf 102.9 FM- Audacy",05/31/25,05/31/25,09:15 PM,10:15 PM,FALSE,TRUE,05/31/25,05:15 PM,06:15 PM,FREE,BUSY
+06/01/25,03:10 PM,04:10 PM,Twins at Mariners,T-Mobile Park - Seattle,"Local TV: Twins.TV Presented by Progressive ----- Local Radio: TIBN- WCCO 830- The Wolf 102.9 FM- Audacy- LosTwins.com",06/01/25,06/01/25,06:10 PM,07:10 PM,FALSE,TRUE,06/01/25,02:10 PM,03:10 PM,FREE,BUSY
+06/02/25,09:05 PM,10:05 PM,Twins at Athletics,Sutter Health Park - Sacramento,"Local TV: Twins.TV Presented by Progressive ----- Local Radio: TIBN- WCCO 830- The Wolf 102.9 FM- Audacy",06/03/25,06/03/25,12:05 AM,01:05 AM,FALSE,TRUE,06/02/25,08:05 PM,09:05 PM,FREE,BUSY
+06/03/25,09:05 PM,10:05 PM,Twins at Athletics,Sutter Health Park - Sacramento,"Local TV: Twins.TV Presented by Progressive ----- Local Radio: TIBN- WCCO 830- The Wolf 102.9 FM- Audacy",06/04/25,06/04/25,12:05 AM,01:05 AM,FALSE,TRUE,06/03/25,08:05 PM,09:05 PM,FREE,BUSY
+06/04/25,09:05 PM,10:05 PM,Twins at Athletics,Sutter Health Park - Sacramento,"Local TV: Twins.TV Presented by Progressive ----- Local Radio: TIBN- WCCO 830- The Wolf 102.9 FM- Audacy",06/05/25,06/05/25,12:05 AM,01:05 AM,FALSE,TRUE,06/04/25,08:05 PM,09:05 PM,FREE,BUSY
+06/05/25,02:35 PM,03:35 PM,Twins at Athletics,Sutter Health Park - Sacramento,"Local TV: Twins.TV Presented by Progressive ----- Local Radio: TIBN- WCCO 830- The Wolf 102.9 FM- Audacy",06/05/25,06/05/25,05:35 PM,06:35 PM,FALSE,TRUE,06/05/25,01:35 PM,02:35 PM,FREE,BUSY
+06/06/25,07:10 PM,08:10 PM,Blue Jays at Twins,Target Field - Minneapolis,"Local TV: Twins.TV Presented by Progressive ----- Local Radio: TIBN- WCCO 830- The Wolf 102.9 FM- Audacy",06/06/25,06/06/25,10:10 PM,11:10 PM,FALSE,TRUE,06/06/25,06:10 PM,07:10 PM,FREE,BUSY
+06/07/25,01:10 PM,02:10 PM,Blue Jays at Twins,Target Field - Minneapolis,"Local TV: Twins.TV Presented by Progressive ----- Local Radio: TIBN- WCCO 830- The Wolf 102.9 FM- Audacy",06/07/25,06/07/25,04:10 PM,05:10 PM,FALSE,TRUE,06/07/25,12:10 PM,01:10 PM,FREE,BUSY
+06/08/25,01:10 PM,02:10 PM,Blue Jays at Twins,Target Field - Minneapolis,"Local TV: Twins.TV Presented by Progressive ----- Local Radio: TIBN- WCCO 830- The Wolf 102.9 FM- Audacy- LosTwins.com",06/08/25,06/08/25,04:10 PM,05:10 PM,FALSE,TRUE,06/08/25,12:10 PM,01:10 PM,FREE,BUSY
+06/10/25,06:40 PM,07:40 PM,Rangers at Twins,Target Field - Minneapolis,"Local TV: Twins.TV Presented by Progressive ----- Local Radio: TIBN- WCCO 830- The Wolf 102.9 FM- Audacy- LosTwins.com",06/10/25,06/10/25,09:40 PM,10:40 PM,FALSE,TRUE,06/10/25,05:40 PM,06:40 PM,FREE,BUSY
+06/11/25,06:40 PM,07:40 PM,Rangers at Twins,Target Field - Minneapolis,"Local TV: Twins.TV Presented by Progressive ----- Local Radio: TIBN- WCCO 830- The Wolf 102.9 FM- Audacy",06/11/25,06/11/25,09:40 PM,10:40 PM,FALSE,TRUE,06/11/25,05:40 PM,06:40 PM,FREE,BUSY
+06/12/25,12:10 PM,01:10 PM,Rangers at Twins,Target Field - Minneapolis,"Local TV: Twins.TV Presented by Progressive- MLBN (out-of-market only) ----- Local Radio: TIBN- WCCO 830- The Wolf 102.9 FM- Audacy",06/12/25,06/12/25,03:10 PM,04:10 PM,FALSE,TRUE,06/12/25,11:10 AM,12:10 PM,FREE,BUSY
+06/13/25,07:10 PM,08:10 PM,Twins at Astros,Daikin Park - Houston,"Local TV: Twins.TV Presented by Progressive ----- Local Radio: TIBN- WCCO 830- The Wolf 102.9 FM- Audacy",06/13/25,06/13/25,10:10 PM,11:10 PM,FALSE,TRUE,06/13/25,06:10 PM,07:10 PM,FREE,BUSY
+06/14/25,03:10 PM,04:10 PM,Twins at Astros,Daikin Park - Houston,"Local TV: Twins.TV Presented by Progressive ----- Local Radio: TIBN- WCCO 830- The Wolf 102.9 FM- Audacy",06/14/25,06/14/25,06:10 PM,07:10 PM,FALSE,TRUE,06/14/25,02:10 PM,03:10 PM,FREE,BUSY
+06/15/25,01:10 PM,02:10 PM,Twins at Astros,Daikin Park - Houston,"Local TV: Twins.TV Presented by Progressive ----- Local Radio: TIBN- WCCO 830- The Wolf 102.9 FM- Audacy- LosTwins.com",06/15/25,06/15/25,04:10 PM,05:10 PM,FALSE,TRUE,06/15/25,12:10 PM,01:10 PM,FREE,BUSY
+06/17/25,06:10 PM,07:10 PM,Twins at Reds,Great American Ball Park - Cincinnati,"Local TV: Twins.TV Presented by Progressive ----- Local Radio: TIBN- WCCO 830- The Wolf 102.9 FM- Audacy- LosTwins.com",06/17/25,06/17/25,09:10 PM,10:10 PM,FALSE,TRUE,06/17/25,05:10 PM,06:10 PM,FREE,BUSY
+06/18/25,06:10 PM,07:10 PM,Twins at Reds,Great American Ball Park - Cincinnati,"Local TV: Twins.TV Presented by Progressive ----- Local Radio: TIBN- WCCO 830- The Wolf 102.9 FM- Audacy",06/18/25,06/18/25,09:10 PM,10:10 PM,FALSE,TRUE,06/18/25,05:10 PM,06:10 PM,FREE,BUSY
+06/19/25,11:40 AM,12:40 PM,Twins at Reds,Great American Ball Park - Cincinnati,"Local TV: Twins.TV Presented by Progressive ----- Local Radio: TIBN- WCCO 830- The Wolf 102.9 FM- Audacy",06/19/25,06/19/25,02:40 PM,03:40 PM,FALSE,TRUE,06/19/25,10:40 AM,11:40 AM,FREE,BUSY
+06/20/25,07:10 PM,08:10 PM,Brewers at Twins,Target Field - Minneapolis,"Local TV: Twins.TV Presented by Progressive- Gray TV ----- Local Radio: TIBN- WCCO 830- The Wolf 102.9 FM- LosTwins.com- Audacy",06/20/25,06/20/25,10:10 PM,11:10 PM,FALSE,TRUE,06/20/25,06:10 PM,07:10 PM,FREE,BUSY
+06/21/25,01:10 PM,02:10 PM,Brewers at Twins,Target Field - Minneapolis,"Local TV: Twins.TV Presented by Progressive ----- Local Radio: TIBN- WCCO 830- The Wolf 102.9 FM- Audacy",06/21/25,06/21/25,04:10 PM,05:10 PM,FALSE,TRUE,06/21/25,12:10 PM,01:10 PM,FREE,BUSY
+06/22/25,01:10 PM,02:10 PM,Brewers at Twins,Target Field - Minneapolis,"Local TV: Twins.TV Presented by Progressive ----- Local Radio: TIBN- WCCO 830- The Wolf 102.9 FM- Audacy- LosTwins.com",06/22/25,06/22/25,04:10 PM,05:10 PM,FALSE,TRUE,06/22/25,12:10 PM,01:10 PM,FREE,BUSY
+06/23/25,06:40 PM,07:40 PM,Mariners at Twins,Target Field - Minneapolis,"Local TV: Twins.TV Presented by Progressive- FS1 ----- Local Radio: TIBN- WCCO 830- The Wolf 102.9 FM- Audacy",06/23/25,06/23/25,09:40 PM,10:40 PM,FALSE,TRUE,06/23/25,05:40 PM,06:40 PM,FREE,BUSY
+06/24/25,06:40 PM,07:40 PM,Mariners at Twins,Target Field - Minneapolis,"Local TV: Twins.TV Presented by Progressive- KMSP ----- Local Radio: TIBN- WCCO 830- The Wolf 102.9 FM- Audacy- LosTwins.com",06/24/25,06/24/25,09:40 PM,10:40 PM,FALSE,TRUE,06/24/25,05:40 PM,06:40 PM,FREE,BUSY
+06/25/25,06:40 PM,07:40 PM,Mariners at Twins,Target Field - Minneapolis,"Local TV: Twins.TV Presented by Progressive ----- Local Radio: TIBN- WCCO 830- The Wolf 102.9 FM- Audacy",06/25/25,06/25/25,09:40 PM,10:40 PM,FALSE,TRUE,06/25/25,05:40 PM,06:40 PM,FREE,BUSY
+06/26/25,12:10 PM,01:10 PM,Mariners at Twins,Target Field - Minneapolis,"Local TV: Twins.TV Presented by Progressive- MLBN (out-of-market only) ----- Local Radio: TIBN- WCCO 830- The Wolf 102.9 FM- Audacy",06/26/25,06/26/25,03:10 PM,04:10 PM,FALSE,TRUE,06/26/25,11:10 AM,12:10 PM,FREE,BUSY
+06/27/25,06:10 PM,07:10 PM,Twins at Tigers,Comerica Park - Detroit,"Local TV: Twins.TV Presented by Progressive ----- Local Radio: TIBN- WCCO 830- The Wolf 102.9 FM- Audacy",06/27/25,06/27/25,09:10 PM,10:10 PM,FALSE,TRUE,06/27/25,05:10 PM,06:10 PM,FREE,BUSY
+06/28/25,12:10 PM,01:10 PM,Twins at Tigers,Comerica Park - Detroit,"Local TV: Twins.TV Presented by Progressive- MLBN (out-of-market only) ----- Local Radio: TIBN- WCCO 830- The Wolf 102.9 FM- Audacy",06/28/25,06/28/25,03:10 PM,04:10 PM,FALSE,TRUE,06/28/25,11:10 AM,12:10 PM,FREE,BUSY
+06/29/25,06:10 PM,07:10 PM,Twins at Tigers,Comerica Park - Detroit,"Local TV: ESPN ----- Local Radio: TIBN- WCCO 830- The Wolf 102.9 FM- Audacy- LosTwins.com",06/29/25,06/29/25,09:10 PM,10:10 PM,FALSE,TRUE,06/29/25,05:10 PM,06:10 PM,FREE,BUSY
+07/01/25,05:40 PM,06:40 PM,Twins at Marlins,loanDepot park - Miami,"Local TV: Twins.TV Presented by Progressive ----- Local Radio: TIBN- WCCO 830- The Wolf 102.9 FM- Audacy- LosTwins.com",07/01/25,07/01/25,08:40 PM,09:40 PM,FALSE,TRUE,07/01/25,04:40 PM,05:40 PM,FREE,BUSY
+07/02/25,05:40 PM,06:40 PM,Twins at Marlins,loanDepot park - Miami,"Local TV: Twins.TV Presented by Progressive ----- Local Radio: TIBN- WCCO 830- The Wolf 102.9 FM- Audacy",07/02/25,07/02/25,08:40 PM,09:40 PM,FALSE,TRUE,07/02/25,04:40 PM,05:40 PM,FREE,BUSY
+07/03/25,11:10 AM,12:10 PM,Twins at Marlins,loanDepot park - Miami,"Local TV: Twins.TV Presented by Progressive- MLBN (out-of-market only) ----- Local Radio: TIBN- WCCO 830- The Wolf 102.9 FM- Audacy",07/03/25,07/03/25,02:10 PM,03:10 PM,FALSE,TRUE,07/03/25,10:10 AM,11:10 AM,FREE,BUSY
+07/04/25,03:10 PM,04:10 PM,Rays at Twins,Target Field - Minneapolis,"Local TV: Twins.TV Presented by Progressive ----- Local Radio: TIBN- WCCO 830- The Wolf 102.9 FM- Audacy",07/04/25,07/04/25,06:10 PM,07:10 PM,FALSE,TRUE,07/04/25,02:10 PM,03:10 PM,FREE,BUSY
+07/05/25,01:10 PM,02:10 PM,Rays at Twins,Target Field - Minneapolis,"Local TV: Twins.TV Presented by Progressive ----- Local Radio: TIBN- WCCO 830- The Wolf 102.9 FM- Audacy",07/05/25,07/05/25,04:10 PM,05:10 PM,FALSE,TRUE,07/05/25,12:10 PM,01:10 PM,FREE,BUSY
+07/06/25,01:10 PM,02:10 PM,Rays at Twins,Target Field - Minneapolis,"Local TV: Twins.TV Presented by Progressive ----- Local Radio: TIBN- WCCO 830- The Wolf 102.9 FM- Audacy- LosTwins.com",07/06/25,07/06/25,04:10 PM,05:10 PM,FALSE,TRUE,07/06/25,12:10 PM,01:10 PM,FREE,BUSY
+07/08/25,06:40 PM,07:40 PM,Cubs at Twins,Target Field - Minneapolis,"Local TV: Twins.TV Presented by Progressive- KMSP ----- Local Radio: TIBN- WCCO 830- The Wolf 102.9 FM- Audacy- LosTwins.com",07/08/25,07/08/25,09:40 PM,10:40 PM,FALSE,TRUE,07/08/25,05:40 PM,06:40 PM,FREE,BUSY
+07/09/25,06:40 PM,07:40 PM,Cubs at Twins,Target Field - Minneapolis,"Local TV: Twins.TV Presented by Progressive ----- Local Radio: TIBN- WCCO 830- The Wolf 102.9 FM- Audacy",07/09/25,07/09/25,09:40 PM,10:40 PM,FALSE,TRUE,07/09/25,05:40 PM,06:40 PM,FREE,BUSY
+07/10/25,12:10 PM,01:10 PM,Cubs at Twins,Target Field - Minneapolis,"Local TV: Twins.TV Presented by Progressive- MLBN (out-of-market only) ----- Local Radio: TIBN- WCCO 830- The Wolf 102.9 FM- Audacy",07/10/25,07/10/25,03:10 PM,04:10 PM,FALSE,TRUE,07/10/25,11:10 AM,12:10 PM,FREE,BUSY
+07/11/25,07:10 PM,08:10 PM,Pirates at Twins,Target Field - Minneapolis,"Local TV: Twins.TV Presented by Progressive ----- Local Radio: TIBN- WCCO 830- The Wolf 102.9 FM- Audacy",07/11/25,07/11/25,10:10 PM,11:10 PM,FALSE,TRUE,07/11/25,06:10 PM,07:10 PM,FREE,BUSY
+07/12/25,01:10 PM,02:10 PM,Pirates at Twins,Target Field - Minneapolis,"Local TV: Twins.TV Presented by Progressive ----- Local Radio: TIBN- WCCO 830- The Wolf 102.9 FM- Audacy",07/12/25,07/12/25,04:10 PM,05:10 PM,FALSE,TRUE,07/12/25,12:10 PM,01:10 PM,FREE,BUSY
+07/13/25,01:10 PM,02:10 PM,Pirates at Twins,Target Field - Minneapolis,"Local TV: Twins.TV Presented by Progressive ----- Local Radio: TIBN- WCCO 830- The Wolf 102.9 FM- Audacy- LosTwins.com",07/13/25,07/13/25,04:10 PM,05:10 PM,FALSE,TRUE,07/13/25,12:10 PM,01:10 PM,FREE,BUSY
+07/18/25,07:40 PM,08:40 PM,Twins at Rockies,Coors Field - Denver,"Local TV: Twins.TV Presented by Progressive ----- Local Radio: TIBN- WCCO 830- The Wolf 102.9 FM- Audacy",07/18/25,07/18/25,10:40 PM,11:40 PM,FALSE,TRUE,07/18/25,06:40 PM,07:40 PM,FREE,BUSY
+07/19/25,07:10 PM,08:10 PM,Twins at Rockies,Coors Field - Denver,"Local TV: Twins.TV Presented by Progressive ----- Local Radio: TIBN- WCCO 830- The Wolf 102.9 FM- Audacy",07/19/25,07/19/25,10:10 PM,11:10 PM,FALSE,TRUE,07/19/25,06:10 PM,07:10 PM,FREE,BUSY
+07/20/25,02:10 PM,03:10 PM,Twins at Rockies,Coors Field - Denver,"Local TV: Twins.TV Presented by Progressive ----- Local Radio: TIBN- WCCO 830- The Wolf 102.9 FM- Audacy- LosTwins.com",07/20/25,07/20/25,05:10 PM,06:10 PM,FALSE,TRUE,07/20/25,01:10 PM,02:10 PM,FREE,BUSY
+07/21/25,09:10 PM,10:10 PM,Twins at Dodgers,Dodger Stadium - Los Angeles,"Local TV: Twins.TV Presented by Progressive ----- Local Radio: TIBN- WCCO 830- The Wolf 102.9 FM- Audacy",07/22/25,07/22/25,12:10 AM,01:10 AM,FALSE,TRUE,07/21/25,08:10 PM,09:10 PM,FREE,BUSY
+07/22/25,09:10 PM,10:10 PM,Twins at Dodgers,Dodger Stadium - Los Angeles,"Local TV: Twins.TV Presented by Progressive- MLBN (out-of-market only) ----- Local Radio: TIBN- WCCO 830- The Wolf 102.9 FM- Audacy",07/23/25,07/23/25,12:10 AM,01:10 AM,FALSE,TRUE,07/22/25,08:10 PM,09:10 PM,FREE,BUSY
+07/23/25,03:10 PM,04:10 PM,Twins at Dodgers,Dodger Stadium - Los Angeles,"Local TV: Twins.TV Presented by Progressive- MLBN (out-of-market only) ----- Local Radio: TIBN- WCCO 830- The Wolf 102.9 FM- Audacy- LosTwins.com",07/23/25,07/23/25,06:10 PM,07:10 PM,FALSE,TRUE,07/23/25,02:10 PM,03:10 PM,FREE,BUSY
+07/25/25,07:10 PM,08:10 PM,Nationals at Twins,Target Field - Minneapolis,"Local TV: Twins.TV Presented by Progressive- MLBN (out-of-market only) ----- Local Radio: TIBN- WCCO 830- The Wolf 102.9 FM- Audacy",07/25/25,07/25/25,10:10 PM,11:10 PM,FALSE,TRUE,07/25/25,06:10 PM,07:10 PM,FREE,BUSY
+07/26/25,06:10 PM,07:10 PM,Nationals at Twins,Target Field - Minneapolis,"Local TV: Twins.TV Presented by Progressive ----- Local Radio: TIBN- WCCO 830- The Wolf 102.9 FM- Audacy",07/26/25,07/26/25,09:10 PM,10:10 PM,FALSE,TRUE,07/26/25,05:10 PM,06:10 PM,FREE,BUSY
+07/27/25,01:10 PM,02:10 PM,Nationals at Twins,Target Field - Minneapolis,"Local TV: Twins.TV Presented by Progressive ----- Local Radio: TIBN- WCCO 830- The Wolf 102.9 FM- Audacy- LosTwins.com",07/27/25,07/27/25,04:10 PM,05:10 PM,FALSE,TRUE,07/27/25,12:10 PM,01:10 PM,FREE,BUSY
+07/28/25,06:40 PM,07:40 PM,Red Sox at Twins,Target Field - Minneapolis,"Local TV: Twins.TV Presented by Progressive ----- Local Radio: TIBN- WCCO 830- The Wolf 102.9 FM- Audacy",07/28/25,07/28/25,09:40 PM,10:40 PM,FALSE,TRUE,07/28/25,05:40 PM,06:40 PM,FREE,BUSY
+07/29/25,06:40 PM,07:40 PM,Red Sox at Twins,Target Field - Minneapolis,"Local TV: Twins.TV Presented by Progressive- KMSP ----- Local Radio: TIBN- WCCO 830- The Wolf 102.9 FM- Audacy- LosTwins.com",07/29/25,07/29/25,09:40 PM,10:40 PM,FALSE,TRUE,07/29/25,05:40 PM,06:40 PM,FREE,BUSY
+07/30/25,12:10 PM,01:10 PM,Red Sox at Twins,Target Field - Minneapolis,"Local TV: Twins.TV Presented by Progressive- MLBN (out-of-market only) ----- Local Radio: TIBN- WCCO 830- The Wolf 102.9 FM- Audacy",07/30/25,07/30/25,03:10 PM,04:10 PM,FALSE,TRUE,07/30/25,11:10 AM,12:10 PM,FREE,BUSY
+08/01/25,06:10 PM,07:10 PM,Twins at Guardians,Progressive Field - Cleveland,"Local TV: Twins.TV Presented by Progressive ----- Local Radio: TIBN- WCCO 830- The Wolf 102.9 FM- Audacy",08/01/25,08/01/25,09:10 PM,10:10 PM,FALSE,TRUE,08/01/25,05:10 PM,06:10 PM,FREE,BUSY
+08/02/25,03:10 PM,04:10 PM,Twins at Guardians,Progressive Field - Cleveland,"Local TV: Twins.TV Presented by Progressive ----- Local Radio: TIBN- WCCO 830- The Wolf 102.9 FM- Audacy",08/02/25,08/02/25,06:10 PM,07:10 PM,FALSE,TRUE,08/02/25,02:10 PM,03:10 PM,FREE,BUSY
+08/03/25,12:40 PM,01:40 PM,Twins at Guardians,Progressive Field - Cleveland,"Local TV: Twins.TV Presented by Progressive ----- Local Radio: TIBN- WCCO 830- The Wolf 102.9 FM- Audacy- LosTwins.com",08/03/25,08/03/25,03:40 PM,04:40 PM,FALSE,TRUE,08/03/25,11:40 AM,12:40 PM,FREE,BUSY
+08/04/25,05:40 PM,06:40 PM,Twins at Tigers,Comerica Park - Detroit,"Local TV: Twins.TV Presented by Progressive ----- Local Radio: TIBN- WCCO 830- The Wolf 102.9 FM- Audacy",08/04/25,08/04/25,08:40 PM,09:40 PM,FALSE,TRUE,08/04/25,04:40 PM,05:40 PM,FREE,BUSY
+08/05/25,05:40 PM,06:40 PM,Twins at Tigers,Comerica Park - Detroit,"Local TV: Twins.TV Presented by Progressive ----- Local Radio: TIBN- WCCO 830- The Wolf 102.9 FM- Audacy- LosTwins.com",08/05/25,08/05/25,08:40 PM,09:40 PM,FALSE,TRUE,08/05/25,04:40 PM,05:40 PM,FREE,BUSY
+08/06/25,12:10 PM,01:10 PM,Twins at Tigers,Comerica Park - Detroit,"Local TV: Twins.TV Presented by Progressive- MLBN (out-of-market only) ----- Local Radio: TIBN- WCCO 830- The Wolf 102.9 FM- Audacy",08/06/25,08/06/25,03:10 PM,04:10 PM,FALSE,TRUE,08/06/25,11:10 AM,12:10 PM,FREE,BUSY
+08/08/25,07:10 PM,08:10 PM,Royals at Twins,Target Field - Minneapolis,"Local TV: Twins.TV Presented by Progressive ----- Local Radio: TIBN- WCCO 830- The Wolf 102.9 FM- Audacy",08/08/25,08/08/25,10:10 PM,11:10 PM,FALSE,TRUE,08/08/25,06:10 PM,07:10 PM,FREE,BUSY
+08/09/25,06:10 PM,07:10 PM,Royals at Twins,Target Field - Minneapolis,"Local TV: Twins.TV Presented by Progressive ----- Local Radio: TIBN- WCCO 830- The Wolf 102.9 FM- Audacy",08/09/25,08/09/25,09:10 PM,10:10 PM,FALSE,TRUE,08/09/25,05:10 PM,06:10 PM,FREE,BUSY
+08/10/25,12:05 PM,01:05 PM,Royals at Twins,Target Field - Minneapolis,"Local TV: Roku ----- Local Radio: TIBN- WCCO 830- The Wolf 102.9 FM- Audacy- LosTwins.com",08/10/25,08/10/25,03:05 PM,04:05 PM,FALSE,TRUE,08/10/25,11:05 AM,12:05 PM,FREE,BUSY
+08/11/25,06:05 PM,07:05 PM,Twins at Yankees,Yankee Stadium - Bronx,"Local TV: Twins.TV Presented by Progressive- MLBN ----- Local Radio: TIBN- WCCO 830- The Wolf 102.9 FM- Audacy",08/11/25,08/11/25,09:05 PM,10:05 PM,FALSE,TRUE,08/11/25,05:05 PM,06:05 PM,FREE,BUSY
+08/12/25,06:05 PM,07:05 PM,Twins at Yankees,Yankee Stadium - Bronx,"Local TV: Twins.TV Presented by Progressive- KMSP ----- Local Radio: TIBN- WCCO 830- The Wolf 102.9 FM- Audacy- LosTwins.com",08/12/25,08/12/25,09:05 PM,10:05 PM,FALSE,TRUE,08/12/25,05:05 PM,06:05 PM,FREE,BUSY
+08/13/25,06:05 PM,07:05 PM,Twins at Yankees,Yankee Stadium - Bronx,"Local TV: Twins.TV Presented by Progressive ----- Local Radio: TIBN- WCCO 830- The Wolf 102.9 FM- Audacy",08/13/25,08/13/25,09:05 PM,10:05 PM,FALSE,TRUE,08/13/25,05:05 PM,06:05 PM,FREE,BUSY
+08/14/25,06:40 PM,07:40 PM,Tigers at Twins,Target Field - Minneapolis,"Local TV: Twins.TV Presented by Progressive ----- Local Radio: TIBN- WCCO 830- The Wolf 102.9 FM- Audacy",08/14/25,08/14/25,09:40 PM,10:40 PM,FALSE,TRUE,08/14/25,05:40 PM,06:40 PM,FREE,BUSY
+08/15/25,07:10 PM,08:10 PM,Tigers at Twins,Target Field - Minneapolis,"Local TV: Twins.TV Presented by Progressive ----- Local Radio: TIBN- WCCO 830- The Wolf 102.9 FM- Audacy",08/15/25,08/15/25,10:10 PM,11:10 PM,FALSE,TRUE,08/15/25,06:10 PM,07:10 PM,FREE,BUSY
+08/16/25,06:15 PM,07:15 PM,Tigers at Twins,Target Field - Minneapolis,"Local TV: FOX- KMSP ----- Local Radio: TIBN- WCCO 830- The Wolf 102.9 FM- Audacy",08/16/25,08/16/25,09:15 PM,10:15 PM,FALSE,TRUE,08/16/25,05:15 PM,06:15 PM,FREE,BUSY
+08/17/25,01:10 PM,02:10 PM,Tigers at Twins,Target Field - Minneapolis,"Local TV: Twins.TV Presented by Progressive ----- Local Radio: TIBN- WCCO 830- The Wolf 102.9 FM- Audacy- LosTwins.com",08/17/25,08/17/25,04:10 PM,05:10 PM,FALSE,TRUE,08/17/25,12:10 PM,01:10 PM,FREE,BUSY
+08/19/25,06:40 PM,07:40 PM,Athletics at Twins,Target Field - Minneapolis,"Local TV: Twins.TV Presented by Progressive- KMSP ----- Local Radio: TIBN- WCCO 830- The Wolf 102.9 FM- Audacy- LosTwins.com",08/19/25,08/19/25,09:40 PM,10:40 PM,FALSE,TRUE,08/19/25,05:40 PM,06:40 PM,FREE,BUSY
+08/20/25,06:40 PM,07:40 PM,Athletics at Twins,Target Field - Minneapolis,"Local TV: Twins.TV Presented by Progressive ----- Local Radio: TIBN- WCCO 830- The Wolf 102.9 FM- Audacy",08/20/25,08/20/25,09:40 PM,10:40 PM,FALSE,TRUE,08/20/25,05:40 PM,06:40 PM,FREE,BUSY
+08/21/25,12:10 PM,01:10 PM,Athletics at Twins,Target Field - Minneapolis,"Local TV: Twins.TV Presented by Progressive ----- Local Radio: TIBN- WCCO 830- The Wolf 102.9 FM- Audacy",08/21/25,08/21/25,03:10 PM,04:10 PM,FALSE,TRUE,08/21/25,11:10 AM,12:10 PM,FREE,BUSY
+08/22/25,06:40 PM,07:40 PM,Twins at White Sox,Rate Field - Chicago,"Local TV: Twins.TV Presented by Progressive ----- Local Radio: TIBN- WCCO 830- The Wolf 102.9 FM- Audacy",08/22/25,08/22/25,09:40 PM,10:40 PM,FALSE,TRUE,08/22/25,05:40 PM,06:40 PM,FREE,BUSY
+08/23/25,06:10 PM,07:10 PM,Twins at White Sox,Rate Field - Chicago,"Local TV: Twins.TV Presented by Progressive ----- Local Radio: TIBN- WCCO 830- The Wolf 102.9 FM- Audacy",08/23/25,08/23/25,09:10 PM,10:10 PM,FALSE,TRUE,08/23/25,05:10 PM,06:10 PM,FREE,BUSY
+08/24/25,01:10 PM,02:10 PM,Twins at White Sox,Rate Field - Chicago,"Local TV: Twins.TV Presented by Progressive ----- Local Radio: TIBN- WCCO 830- The Wolf 102.9 FM- Audacy- LosTwins.com",08/24/25,08/24/25,04:10 PM,05:10 PM,FALSE,TRUE,08/24/25,12:10 PM,01:10 PM,FREE,BUSY
+08/25/25,06:07 PM,07:07 PM,Twins at Blue Jays,Rogers Centre - Toronto,"Local TV: Twins.TV Presented by Progressive ----- Local Radio: TIBN- WCCO 830- The Wolf 102.9 FM- Audacy",08/25/25,08/25/25,09:07 PM,10:07 PM,FALSE,TRUE,08/25/25,05:07 PM,06:07 PM,FREE,BUSY
+08/26/25,06:07 PM,07:07 PM,Twins at Blue Jays,Rogers Centre - Toronto,"Local TV: Twins.TV Presented by Progressive ----- Local Radio: TIBN- WCCO 830- The Wolf 102.9 FM- Audacy- LosTwins.com",08/26/25,08/26/25,09:07 PM,10:07 PM,FALSE,TRUE,08/26/25,05:07 PM,06:07 PM,FREE,BUSY
+08/27/25,06:07 PM,07:07 PM,Twins at Blue Jays,Rogers Centre - Toronto,"Local TV: Twins.TV Presented by Progressive ----- Local Radio: TIBN- WCCO 830- The Wolf 102.9 FM- Audacy",08/27/25,08/27/25,09:07 PM,10:07 PM,FALSE,TRUE,08/27/25,05:07 PM,06:07 PM,FREE,BUSY
+08/29/25,07:10 PM,08:10 PM,Padres at Twins,Target Field - Minneapolis,"Local TV: Twins.TV Presented by Progressive ----- Local Radio: TIBN- WCCO 830- The Wolf 102.9 FM- Audacy",08/29/25,08/29/25,10:10 PM,11:10 PM,FALSE,TRUE,08/29/25,06:10 PM,07:10 PM,FREE,BUSY
+08/30/25,06:10 PM,07:10 PM,Padres at Twins,Target Field - Minneapolis,"Local TV: Twins.TV Presented by Progressive ----- Local Radio: TIBN- WCCO 830- The Wolf 102.9 FM- Audacy",08/30/25,08/30/25,09:10 PM,10:10 PM,FALSE,TRUE,08/30/25,05:10 PM,06:10 PM,FREE,BUSY
+08/31/25,12:05 PM,01:05 PM,Padres at Twins,Target Field - Minneapolis,"Local TV: Roku ----- Local Radio: TIBN- WCCO 830- The Wolf 102.9 FM- Audacy- LosTwins.com",08/31/25,08/31/25,03:05 PM,04:05 PM,FALSE,TRUE,08/31/25,11:05 AM,12:05 PM,FREE,BUSY
+09/01/25,01:10 PM,02:10 PM,White Sox at Twins,Target Field - Minneapolis,"Local TV: Twins.TV Presented by Progressive ----- Local Radio: TIBN- WCCO 830- The Wolf 102.9 FM- Audacy",09/01/25,09/01/25,04:10 PM,05:10 PM,FALSE,TRUE,09/01/25,12:10 PM,01:10 PM,FREE,BUSY
+09/02/25,06:40 PM,07:40 PM,White Sox at Twins,Target Field - Minneapolis,"Local TV: Twins.TV Presented by Progressive- KMSP ----- Local Radio: TIBN- WCCO 830- The Wolf 102.9 FM- Audacy- LosTwins.com",09/02/25,09/02/25,09:40 PM,10:40 PM,FALSE,TRUE,09/02/25,05:40 PM,06:40 PM,FREE,BUSY
+09/03/25,06:40 PM,07:40 PM,White Sox at Twins,Target Field - Minneapolis,"Local TV: Twins.TV Presented by Progressive ----- Local Radio: TIBN- WCCO 830- The Wolf 102.9 FM- Audacy",09/03/25,09/03/25,09:40 PM,10:40 PM,FALSE,TRUE,09/03/25,05:40 PM,06:40 PM,FREE,BUSY
+09/04/25,06:40 PM,07:40 PM,White Sox at Twins,Target Field - Minneapolis,"Local TV: Twins.TV Presented by Progressive ----- Local Radio: TIBN- WCCO 830- The Wolf 102.9 FM- Audacy",09/04/25,09/04/25,09:40 PM,10:40 PM,FALSE,TRUE,09/04/25,05:40 PM,06:40 PM,FREE,BUSY
+09/05/25,06:40 PM,07:40 PM,Twins at Royals,Kauffman Stadium - Kansas City,"Local TV: Twins.TV Presented by Progressive ----- Local Radio: TIBN- WCCO 830- The Wolf 102.9 FM- Audacy",09/05/25,09/05/25,09:40 PM,10:40 PM,FALSE,TRUE,09/05/25,05:40 PM,06:40 PM,FREE,BUSY
+09/06/25,06:15 PM,07:15 PM,Twins at Royals,Kauffman Stadium - Kansas City,"Local TV: FOX- KMSP ----- Local Radio: TIBN- WCCO 830- The Wolf 102.9 FM- Audacy",09/06/25,09/06/25,09:15 PM,10:15 PM,FALSE,TRUE,09/06/25,05:15 PM,06:15 PM,FREE,BUSY
+09/07/25,01:10 PM,02:10 PM,Twins at Royals,Kauffman Stadium - Kansas City,"Local TV: Twins.TV Presented by Progressive ----- Local Radio: TIBN- WCCO 830- The Wolf 102.9 FM- Audacy- LosTwins.com",09/07/25,09/07/25,04:10 PM,05:10 PM,FALSE,TRUE,09/07/25,12:10 PM,01:10 PM,FREE,BUSY
+09/08/25,08:38 PM,09:38 PM,Twins at Angels,Angel Stadium - Anaheim,"Local TV: Twins.TV Presented by Progressive ----- Local Radio: TIBN- WCCO 830- The Wolf 102.9 FM- Audacy",09/08/25,09/09/25,11:38 PM,12:38 AM,FALSE,TRUE,09/08/25,07:38 PM,08:38 PM,FREE,BUSY
+09/09/25,08:38 PM,09:38 PM,Twins at Angels,Angel Stadium - Anaheim,"Local TV: Twins.TV Presented by Progressive ----- Local Radio: TIBN- WCCO 830- The Wolf 102.9 FM- Audacy",09/09/25,09/10/25,11:38 PM,12:38 AM,FALSE,TRUE,09/09/25,07:38 PM,08:38 PM,FREE,BUSY
+09/10/25,03:07 PM,04:07 PM,Twins at Angels,Angel Stadium - Anaheim,"Local TV: Twins.TV Presented by Progressive ----- Local Radio: TIBN- WCCO 830- The Wolf 102.9 FM- Audacy",09/10/25,09/10/25,06:07 PM,07:07 PM,FALSE,TRUE,09/10/25,02:07 PM,03:07 PM,FREE,BUSY
+09/12/25,07:10 PM,08:10 PM,D-backs at Twins,Target Field - Minneapolis,"Local TV: Twins.TV Presented by Progressive ----- Local Radio: TIBN- WCCO 830- The Wolf 102.9 FM- Audacy",09/12/25,09/12/25,10:10 PM,11:10 PM,FALSE,TRUE,09/12/25,06:10 PM,07:10 PM,FREE,BUSY
+09/13/25,06:10 PM,07:10 PM,D-backs at Twins,Target Field - Minneapolis,"Local TV: Twins.TV Presented by Progressive ----- Local Radio: TIBN- WCCO 830- The Wolf 102.9 FM- Audacy",09/13/25,09/13/25,09:10 PM,10:10 PM,FALSE,TRUE,09/13/25,05:10 PM,06:10 PM,FREE,BUSY
+09/14/25,01:10 PM,02:10 PM,D-backs at Twins,Target Field - Minneapolis,"Local TV: Twins.TV Presented by Progressive ----- Local Radio: TIBN- WCCO 830- The Wolf 102.9 FM- Audacy- LosTwins.com",09/14/25,09/14/25,04:10 PM,05:10 PM,FALSE,TRUE,09/14/25,12:10 PM,01:10 PM,FREE,BUSY
+09/15/25,06:40 PM,07:40 PM,Yankees at Twins,Target Field - Minneapolis,"Local TV: Twins.TV Presented by Progressive ----- Local Radio: TIBN- WCCO 830- The Wolf 102.9 FM- Audacy",09/15/25,09/15/25,09:40 PM,10:40 PM,FALSE,TRUE,09/15/25,05:40 PM,06:40 PM,FREE,BUSY
+09/16/25,06:40 PM,07:40 PM,Yankees at Twins,Target Field - Minneapolis,"Local TV: Twins.TV Presented by Progressive ----- Local Radio: TIBN- WCCO 830- The Wolf 102.9 FM- Audacy- LosTwins.com",09/16/25,09/16/25,09:40 PM,10:40 PM,FALSE,TRUE,09/16/25,05:40 PM,06:40 PM,FREE,BUSY
+09/17/25,06:40 PM,07:40 PM,Yankees at Twins,Target Field - Minneapolis,"Local TV: Twins.TV Presented by Progressive ----- Local Radio: TIBN- WCCO 830- The Wolf 102.9 FM- Audacy",09/17/25,09/17/25,09:40 PM,10:40 PM,FALSE,TRUE,09/17/25,05:40 PM,06:40 PM,FREE,BUSY
+09/19/25,07:10 PM,08:10 PM,Guardians at Twins,Target Field - Minneapolis,"Local TV: Twins.TV Presented by Progressive ----- Local Radio: TIBN- WCCO 830- The Wolf 102.9 FM- Audacy",09/19/25,09/19/25,10:10 PM,11:10 PM,FALSE,TRUE,09/19/25,06:10 PM,07:10 PM,FREE,BUSY
+09/20/25,01:10 PM,02:10 PM,Guardians at Twins,Target Field - Minneapolis,"Local TV: Twins.TV Presented by Progressive- KMSP ----- Local Radio: TIBN- WCCO 830- The Wolf 102.9 FM- Audacy- LosTwins.com",09/20/25,09/20/25,04:10 PM,05:10 PM,FALSE,TRUE,09/20/25,12:10 PM,01:10 PM,FREE,BUSY
+09/20/25,06:10 PM,07:10 PM,Guardians at Twins,Target Field - Minneapolis,"Local TV: Twins.TV Presented by Progressive ----- Local Radio: TIBN- WCCO 830- The Wolf 102.9 FM- Audacy",09/20/25,09/20/25,09:10 PM,10:10 PM,FALSE,TRUE,09/20/25,05:10 PM,06:10 PM,FREE,BUSY
+09/21/25,01:10 PM,02:10 PM,Guardians at Twins,Target Field - Minneapolis,"Local TV: Twins.TV Presented by Progressive ----- Local Radio: TIBN- WCCO 830- The Wolf 102.9 FM- Audacy- LosTwins.com",09/21/25,09/21/25,04:10 PM,05:10 PM,FALSE,TRUE,09/21/25,12:10 PM,01:10 PM,FREE,BUSY
+09/23/25,07:05 PM,08:05 PM,Twins at Rangers,Globe Life Field - Arlington,"Local TV: Twins.TV Presented by Progressive ----- Local Radio: TIBN- WCCO 830- The Wolf 102.9 FM- Audacy- LosTwins.com",09/23/25,09/23/25,10:05 PM,11:05 PM,FALSE,TRUE,09/23/25,06:05 PM,07:05 PM,FREE,BUSY
+09/24/25,07:05 PM,08:05 PM,Twins at Rangers,Globe Life Field - Arlington,"Local TV: Twins.TV Presented by Progressive ----- Local Radio: TIBN- WCCO 830- The Wolf 102.9 FM- Audacy",09/24/25,09/24/25,10:05 PM,11:05 PM,FALSE,TRUE,09/24/25,06:05 PM,07:05 PM,FREE,BUSY
+09/25/25,01:35 PM,02:35 PM,Twins at Rangers,Globe Life Field - Arlington,"Local TV: Twins.TV Presented by Progressive ----- Local Radio: TIBN- WCCO 830- The Wolf 102.9 FM- Audacy",09/25/25,09/25/25,04:35 PM,05:35 PM,FALSE,TRUE,09/25/25,12:35 PM,01:35 PM,FREE,BUSY
+09/26/25,05:45 PM,06:45 PM,Twins at Phillies,Citizens Bank Park - Philadelphia,"Local TV: Twins.TV Presented by Progressive ----- Local Radio: TIBN- WCCO 830- The Wolf 102.9 FM- Audacy",09/26/25,09/26/25,08:45 PM,09:45 PM,FALSE,TRUE,09/26/25,04:45 PM,05:45 PM,FREE,BUSY
+09/27/25,05:05 PM,06:05 PM,Twins at Phillies,Citizens Bank Park - Philadelphia,"Local TV: Twins.TV Presented by Progressive ----- Local Radio: TIBN- WCCO 830- The Wolf 102.9 FM- Audacy",09/27/25,09/27/25,08:05 PM,09:05 PM,FALSE,TRUE,09/27/25,04:05 PM,05:05 PM,FREE,BUSY
+09/28/25,02:05 PM,03:05 PM,Twins at Phillies,Citizens Bank Park - Philadelphia,"Local TV: Twins.TV Presented by Progressive ----- Local Radio: TIBN- WCCO 830- The Wolf 102.9 FM- Audacy- LosTwins.com",09/28/25,09/28/25,05:05 PM,06:05 PM,FALSE,TRUE,09/28/25,01:05 PM,02:05 PM,FREE,BUSY
+03/26/26,,,Twins at Orioles - Time TBD,Oriole Park at Camden Yards - Baltimore,"",03/26/26,03/26/26,,,FALSE,TRUE,03/26/26,,,FREE,BUSY
+03/28/26,,,Twins at Orioles - Time TBD,Oriole Park at Camden Yards - Baltimore,"",03/28/26,03/28/26,,,FALSE,TRUE,03/28/26,,,FREE,BUSY
+03/29/26,,,Twins at Orioles - Time TBD,Oriole Park at Camden Yards - Baltimore,"",03/29/26,03/29/26,,,FALSE,TRUE,03/29/26,,,FREE,BUSY
+03/30/26,,,Twins at Royals - Time TBD,Kauffman Stadium - Kansas City,"",03/30/26,03/30/26,,,FALSE,TRUE,03/30/26,,,FREE,BUSY
+04/01/26,,,Twins at Royals - Time TBD,Kauffman Stadium - Kansas City,"",04/01/26,04/01/26,,,FALSE,TRUE,04/01/26,,,FREE,BUSY
+04/02/26,,,Twins at Royals - Time TBD,Kauffman Stadium - Kansas City,"",04/02/26,04/02/26,,,FALSE,TRUE,04/02/26,,,FREE,BUSY
+04/03/26,,,Rays at Twins - Time TBD,Target Field - Minneapolis,"",04/03/26,04/03/26,,,FALSE,TRUE,04/03/26,,,FREE,BUSY
+04/04/26,,,Rays at Twins - Time TBD,Target Field - Minneapolis,"",04/04/26,04/04/26,,,FALSE,TRUE,04/04/26,,,FREE,BUSY
+04/05/26,,,Rays at Twins - Time TBD,Target Field - Minneapolis,"",04/05/26,04/05/26,,,FALSE,TRUE,04/05/26,,,FREE,BUSY
+04/06/26,,,Tigers at Twins - Time TBD,Target Field - Minneapolis,"",04/06/26,04/06/26,,,FALSE,TRUE,04/06/26,,,FREE,BUSY
+04/07/26,,,Tigers at Twins - Time TBD,Target Field - Minneapolis,"",04/07/26,04/07/26,,,FALSE,TRUE,04/07/26,,,FREE,BUSY
+04/08/26,,,Tigers at Twins - Time TBD,Target Field - Minneapolis,"",04/08/26,04/08/26,,,FALSE,TRUE,04/08/26,,,FREE,BUSY
+04/09/26,,,Tigers at Twins - Time TBD,Target Field - Minneapolis,"",04/09/26,04/09/26,,,FALSE,TRUE,04/09/26,,,FREE,BUSY
+04/10/26,,,Twins at Blue Jays - Time TBD,Rogers Centre - Toronto,"",04/10/26,04/10/26,,,FALSE,TRUE,04/10/26,,,FREE,BUSY
+04/11/26,,,Twins at Blue Jays - Time TBD,Rogers Centre - Toronto,"",04/11/26,04/11/26,,,FALSE,TRUE,04/11/26,,,FREE,BUSY
+04/12/26,,,Twins at Blue Jays - Time TBD,Rogers Centre - Toronto,"",04/12/26,04/12/26,,,FALSE,TRUE,04/12/26,,,FREE,BUSY
+04/13/26,,,Red Sox at Twins - Time TBD,Target Field - Minneapolis,"",04/13/26,04/13/26,,,FALSE,TRUE,04/13/26,,,FREE,BUSY
+04/14/26,,,Red Sox at Twins - Time TBD,Target Field - Minneapolis,"",04/14/26,04/14/26,,,FALSE,TRUE,04/14/26,,,FREE,BUSY
+04/15/26,,,Red Sox at Twins - Time TBD,Target Field - Minneapolis,"",04/15/26,04/15/26,,,FALSE,TRUE,04/15/26,,,FREE,BUSY
+04/17/26,,,Reds at Twins - Time TBD,Target Field - Minneapolis,"",04/17/26,04/17/26,,,FALSE,TRUE,04/17/26,,,FREE,BUSY
+04/18/26,,,Reds at Twins - Time TBD,Target Field - Minneapolis,"",04/18/26,04/18/26,,,FALSE,TRUE,04/18/26,,,FREE,BUSY
+04/19/26,,,Reds at Twins - Time TBD,Target Field - Minneapolis,"",04/19/26,04/19/26,,,FALSE,TRUE,04/19/26,,,FREE,BUSY
+04/21/26,,,Twins at Mets - Time TBD,Citi Field - Flushing,"",04/21/26,04/21/26,,,FALSE,TRUE,04/21/26,,,FREE,BUSY
+04/22/26,,,Twins at Mets - Time TBD,Citi Field - Flushing,"",04/22/26,04/22/26,,,FALSE,TRUE,04/22/26,,,FREE,BUSY
+04/23/26,,,Twins at Mets - Time TBD,Citi Field - Flushing,"",04/23/26,04/23/26,,,FALSE,TRUE,04/23/26,,,FREE,BUSY
+04/24/26,,,Twins at Rays - Time TBD,George M. Steinbrenner Field - Tampa,"",04/24/26,04/24/26,,,FALSE,TRUE,04/24/26,,,FREE,BUSY
+04/25/26,,,Twins at Rays - Time TBD,George M. Steinbrenner Field - Tampa,"",04/25/26,04/25/26,,,FALSE,TRUE,04/25/26,,,FREE,BUSY
+04/26/26,,,Twins at Rays - Time TBD,George M. Steinbrenner Field - Tampa,"",04/26/26,04/26/26,,,FALSE,TRUE,04/26/26,,,FREE,BUSY
+04/27/26,,,Mariners at Twins - Time TBD,Target Field - Minneapolis,"",04/27/26,04/27/26,,,FALSE,TRUE,04/27/26,,,FREE,BUSY
+04/28/26,,,Mariners at Twins - Time TBD,Target Field - Minneapolis,"",04/28/26,04/28/26,,,FALSE,TRUE,04/28/26,,,FREE,BUSY
+04/29/26,,,Mariners at Twins - Time TBD,Target Field - Minneapolis,"",04/29/26,04/29/26,,,FALSE,TRUE,04/29/26,,,FREE,BUSY
+04/30/26,,,Blue Jays at Twins - Time TBD,Target Field - Minneapolis,"",04/30/26,04/30/26,,,FALSE,TRUE,04/30/26,,,FREE,BUSY
+05/01/26,,,Blue Jays at Twins - Time TBD,Target Field - Minneapolis,"",05/01/26,05/01/26,,,FALSE,TRUE,05/01/26,,,FREE,BUSY
+05/02/26,,,Blue Jays at Twins - Time TBD,Target Field - Minneapolis,"",05/02/26,05/02/26,,,FALSE,TRUE,05/02/26,,,FREE,BUSY
+05/03/26,,,Blue Jays at Twins - Time TBD,Target Field - Minneapolis,"",05/03/26,05/03/26,,,FALSE,TRUE,05/03/26,,,FREE,BUSY
+05/05/26,,,Twins at Nationals - Time TBD,Nationals Park - Washington,"",05/05/26,05/05/26,,,FALSE,TRUE,05/05/26,,,FREE,BUSY
+05/06/26,,,Twins at Nationals - Time TBD,Nationals Park - Washington,"",05/06/26,05/06/26,,,FALSE,TRUE,05/06/26,,,FREE,BUSY
+05/07/26,,,Twins at Nationals - Time TBD,Nationals Park - Washington,"",05/07/26,05/07/26,,,FALSE,TRUE,05/07/26,,,FREE,BUSY
+05/08/26,,,Twins at Guardians - Time TBD,Progressive Field - Cleveland,"",05/08/26,05/08/26,,,FALSE,TRUE,05/08/26,,,FREE,BUSY
+05/09/26,,,Twins at Guardians - Time TBD,Progressive Field - Cleveland,"",05/09/26,05/09/26,,,FALSE,TRUE,05/09/26,,,FREE,BUSY
+05/10/26,,,Twins at Guardians - Time TBD,Progressive Field - Cleveland,"",05/10/26,05/10/26,,,FALSE,TRUE,05/10/26,,,FREE,BUSY
+05/12/26,,,Marlins at Twins - Time TBD,Target Field - Minneapolis,"",05/12/26,05/12/26,,,FALSE,TRUE,05/12/26,,,FREE,BUSY
+05/13/26,,,Marlins at Twins - Time TBD,Target Field - Minneapolis,"",05/13/26,05/13/26,,,FALSE,TRUE,05/13/26,,,FREE,BUSY
+05/14/26,,,Marlins at Twins - Time TBD,Target Field - Minneapolis,"",05/14/26,05/14/26,,,FALSE,TRUE,05/14/26,,,FREE,BUSY
+05/15/26,,,Brewers at Twins - Time TBD,Target Field - Minneapolis,"",05/15/26,05/15/26,,,FALSE,TRUE,05/15/26,,,FREE,BUSY
+05/16/26,,,Brewers at Twins - Time TBD,Target Field - Minneapolis,"",05/16/26,05/16/26,,,FALSE,TRUE,05/16/26,,,FREE,BUSY
+05/17/26,,,Brewers at Twins - Time TBD,Target Field - Minneapolis,"",05/17/26,05/17/26,,,FALSE,TRUE,05/17/26,,,FREE,BUSY
+05/18/26,,,Astros at Twins - Time TBD,Target Field - Minneapolis,"",05/18/26,05/18/26,,,FALSE,TRUE,05/18/26,,,FREE,BUSY
+05/19/26,,,Astros at Twins - Time TBD,Target Field - Minneapolis,"",05/19/26,05/19/26,,,FALSE,TRUE,05/19/26,,,FREE,BUSY
+05/20/26,,,Astros at Twins - Time TBD,Target Field - Minneapolis,"",05/20/26,05/20/26,,,FALSE,TRUE,05/20/26,,,FREE,BUSY
+05/22/26,,,Twins at Red Sox - Time TBD,Fenway Park - Boston,"",05/22/26,05/22/26,,,FALSE,TRUE,05/22/26,,,FREE,BUSY
+05/23/26,,,Twins at Red Sox - Time TBD,Fenway Park - Boston,"",05/23/26,05/23/26,,,FALSE,TRUE,05/23/26,,,FREE,BUSY
+05/24/26,,,Twins at Red Sox - Time TBD,Fenway Park - Boston,"",05/24/26,05/24/26,,,FALSE,TRUE,05/24/26,,,FREE,BUSY
+05/25/26,,,Twins at White Sox - Time TBD,Rate Field - Chicago,"",05/25/26,05/25/26,,,FALSE,TRUE,05/25/26,,,FREE,BUSY
+05/26/26,,,Twins at White Sox - Time TBD,Rate Field - Chicago,"",05/26/26,05/26/26,,,FALSE,TRUE,05/26/26,,,FREE,BUSY
+05/27/26,,,Twins at White Sox - Time TBD,Rate Field - Chicago,"",05/27/26,05/27/26,,,FALSE,TRUE,05/27/26,,,FREE,BUSY
+05/28/26,,,Twins at White Sox - Time TBD,Rate Field - Chicago,"",05/28/26,05/28/26,,,FALSE,TRUE,05/28/26,,,FREE,BUSY
+05/29/26,,,Twins at Pirates - Time TBD,PNC Park - Pittsburgh,"",05/29/26,05/29/26,,,FALSE,TRUE,05/29/26,,,FREE,BUSY
+05/30/26,,,Twins at Pirates - Time TBD,PNC Park - Pittsburgh,"",05/30/26,05/30/26,,,FALSE,TRUE,05/30/26,,,FREE,BUSY
+05/31/26,,,Twins at Pirates - Time TBD,PNC Park - Pittsburgh,"",05/31/26,05/31/26,,,FALSE,TRUE,05/31/26,,,FREE,BUSY
+06/01/26,,,White Sox at Twins - Time TBD,Target Field - Minneapolis,"",06/01/26,06/01/26,,,FALSE,TRUE,06/01/26,,,FREE,BUSY
+06/02/26,,,White Sox at Twins - Time TBD,Target Field - Minneapolis,"",06/02/26,06/02/26,,,FALSE,TRUE,06/02/26,,,FREE,BUSY
+06/03/26,,,White Sox at Twins - Time TBD,Target Field - Minneapolis,"",06/03/26,06/03/26,,,FALSE,TRUE,06/03/26,,,FREE,BUSY
+06/04/26,,,Royals at Twins - Time TBD,Target Field - Minneapolis,"",06/04/26,06/04/26,,,FALSE,TRUE,06/04/26,,,FREE,BUSY
+06/05/26,,,Royals at Twins - Time TBD,Target Field - Minneapolis,"",06/05/26,06/05/26,,,FALSE,TRUE,06/05/26,,,FREE,BUSY
+06/06/26,,,Royals at Twins - Time TBD,Target Field - Minneapolis,"",06/06/26,06/06/26,,,FALSE,TRUE,06/06/26,,,FREE,BUSY
+06/07/26,,,Royals at Twins - Time TBD,Target Field - Minneapolis,"",06/07/26,06/07/26,,,FALSE,TRUE,06/07/26,,,FREE,BUSY
+06/09/26,,,Twins at Tigers - Time TBD,Comerica Park - Detroit,"",06/09/26,06/09/26,,,FALSE,TRUE,06/09/26,,,FREE,BUSY
+06/10/26,,,Twins at Tigers - Time TBD,Comerica Park - Detroit,"",06/10/26,06/10/26,,,FALSE,TRUE,06/10/26,,,FREE,BUSY
+06/11/26,,,Twins at Tigers - Time TBD,Comerica Park - Detroit,"",06/11/26,06/11/26,,,FALSE,TRUE,06/11/26,,,FREE,BUSY
+06/12/26,,,Cardinals at Twins - Time TBD,Target Field - Minneapolis,"",06/12/26,06/12/26,,,FALSE,TRUE,06/12/26,,,FREE,BUSY
+06/13/26,,,Cardinals at Twins - Time TBD,Target Field - Minneapolis,"",06/13/26,06/13/26,,,FALSE,TRUE,06/13/26,,,FREE,BUSY
+06/14/26,,,Cardinals at Twins - Time TBD,Target Field - Minneapolis,"",06/14/26,06/14/26,,,FALSE,TRUE,06/14/26,,,FREE,BUSY
+06/15/26,,,Twins at Rangers - Time TBD,Globe Life Field - Arlington,"",06/15/26,06/15/26,,,FALSE,TRUE,06/15/26,,,FREE,BUSY
+06/16/26,,,Twins at Rangers - Time TBD,Globe Life Field - Arlington,"",06/16/26,06/16/26,,,FALSE,TRUE,06/16/26,,,FREE,BUSY
+06/18/26,,,Twins at Rangers - Time TBD,Globe Life Field - Arlington,"",06/18/26,06/18/26,,,FALSE,TRUE,06/18/26,,,FREE,BUSY
+06/19/26,,,Twins at D-backs - Time TBD,Chase Field - Phoenix,"",06/19/26,06/19/26,,,FALSE,TRUE,06/19/26,,,FREE,BUSY
+06/20/26,,,Twins at D-backs - Time TBD,Chase Field - Phoenix,"",06/20/26,06/20/26,,,FALSE,TRUE,06/20/26,,,FREE,BUSY
+06/21/26,,,Twins at D-backs - Time TBD,Chase Field - Phoenix,"",06/21/26,06/21/26,,,FALSE,TRUE,06/21/26,,,FREE,BUSY
+06/22/26,,,Dodgers at Twins - Time TBD,Target Field - Minneapolis,"",06/22/26,06/22/26,,,FALSE,TRUE,06/22/26,,,FREE,BUSY
+06/23/26,,,Dodgers at Twins - Time TBD,Target Field - Minneapolis,"",06/23/26,06/23/26,,,FALSE,TRUE,06/23/26,,,FREE,BUSY
+06/24/26,,,Dodgers at Twins - Time TBD,Target Field - Minneapolis,"",06/24/26,06/24/26,,,FALSE,TRUE,06/24/26,,,FREE,BUSY
+06/26/26,,,Rockies at Twins - Time TBD,Target Field - Minneapolis,"",06/26/26,06/26/26,,,FALSE,TRUE,06/26/26,,,FREE,BUSY
+06/27/26,,,Rockies at Twins - Time TBD,Target Field - Minneapolis,"",06/27/26,06/27/26,,,FALSE,TRUE,06/27/26,,,FREE,BUSY
+06/28/26,,,Rockies at Twins - Time TBD,Target Field - Minneapolis,"",06/28/26,06/28/26,,,FALSE,TRUE,06/28/26,,,FREE,BUSY
+06/29/26,,,Twins at Astros - Time TBD,Daikin Park - Houston,"",06/29/26,06/29/26,,,FALSE,TRUE,06/29/26,,,FREE,BUSY
+06/30/26,,,Twins at Astros - Time TBD,Daikin Park - Houston,"",06/30/26,06/30/26,,,FALSE,TRUE,06/30/26,,,FREE,BUSY
+07/01/26,,,Twins at Astros - Time TBD,Daikin Park - Houston,"",07/01/26,07/01/26,,,FALSE,TRUE,07/01/26,,,FREE,BUSY
+07/03/26,,,Twins at Yankees - Time TBD,Yankee Stadium - Bronx,"",07/03/26,07/03/26,,,FALSE,TRUE,07/03/26,,,FREE,BUSY
+07/04/26,,,Twins at Yankees - Time TBD,Yankee Stadium - Bronx,"",07/04/26,07/04/26,,,FALSE,TRUE,07/04/26,,,FREE,BUSY
+07/05/26,,,Twins at Yankees - Time TBD,Yankee Stadium - Bronx,"",07/05/26,07/05/26,,,FALSE,TRUE,07/05/26,,,FREE,BUSY
+07/07/26,,,Guardians at Twins - Time TBD,Target Field - Minneapolis,"",07/07/26,07/07/26,,,FALSE,TRUE,07/07/26,,,FREE,BUSY
+07/08/26,,,Guardians at Twins - Time TBD,Target Field - Minneapolis,"",07/08/26,07/08/26,,,FALSE,TRUE,07/08/26,,,FREE,BUSY
+07/09/26,,,Guardians at Twins - Time TBD,Target Field - Minneapolis,"",07/09/26,07/09/26,,,FALSE,TRUE,07/09/26,,,FREE,BUSY
+07/10/26,,,Angels at Twins - Time TBD,Target Field - Minneapolis,"",07/10/26,07/10/26,,,FALSE,TRUE,07/10/26,,,FREE,BUSY
+07/11/26,,,Angels at Twins - Time TBD,Target Field - Minneapolis,"",07/11/26,07/11/26,,,FALSE,TRUE,07/11/26,,,FREE,BUSY
+07/12/26,,,Angels at Twins - Time TBD,Target Field - Minneapolis,"",07/12/26,07/12/26,,,FALSE,TRUE,07/12/26,,,FREE,BUSY
+07/17/26,,,Twins at Cubs - Time TBD,Wrigley Field - Chicago,"",07/17/26,07/17/26,,,FALSE,TRUE,07/17/26,,,FREE,BUSY
+07/18/26,,,Twins at Cubs - Time TBD,Wrigley Field - Chicago,"",07/18/26,07/18/26,,,FALSE,TRUE,07/18/26,,,FREE,BUSY
+07/19/26,,,Twins at Cubs - Time TBD,Wrigley Field - Chicago,"",07/19/26,07/19/26,,,FALSE,TRUE,07/19/26,,,FREE,BUSY
+07/20/26,,,Twins at Guardians - Time TBD,Progressive Field - Cleveland,"",07/20/26,07/20/26,,,FALSE,TRUE,07/20/26,,,FREE,BUSY
+07/21/26,,,Twins at Guardians - Time TBD,Progressive Field - Cleveland,"",07/21/26,07/21/26,,,FALSE,TRUE,07/21/26,,,FREE,BUSY
+07/22/26,,,Twins at Guardians - Time TBD,Progressive Field - Cleveland,"",07/22/26,07/22/26,,,FALSE,TRUE,07/22/26,,,FREE,BUSY
+07/23/26,,,Twins at Guardians - Time TBD,Progressive Field - Cleveland,"",07/23/26,07/23/26,,,FALSE,TRUE,07/23/26,,,FREE,BUSY
+07/24/26,,,Athletics at Twins - Time TBD,Target Field - Minneapolis,"",07/24/26,07/24/26,,,FALSE,TRUE,07/24/26,,,FREE,BUSY
+07/25/26,,,Athletics at Twins - Time TBD,Target Field - Minneapolis,"",07/25/26,07/25/26,,,FALSE,TRUE,07/25/26,,,FREE,BUSY
+07/26/26,,,Athletics at Twins - Time TBD,Target Field - Minneapolis,"",07/26/26,07/26/26,,,FALSE,TRUE,07/26/26,,,FREE,BUSY
+07/28/26,,,Royals at Twins - Time TBD,Target Field - Minneapolis,"",07/28/26,07/28/26,,,FALSE,TRUE,07/28/26,,,FREE,BUSY
+07/29/26,,,Royals at Twins - Time TBD,Target Field - Minneapolis,"",07/29/26,07/29/26,,,FALSE,TRUE,07/29/26,,,FREE,BUSY
+07/30/26,,,Royals at Twins - Time TBD,Target Field - Minneapolis,"",07/30/26,07/30/26,,,FALSE,TRUE,07/30/26,,,FREE,BUSY
+07/31/26,,,Twins at Mariners - Time TBD,T-Mobile Park - Seattle,"",07/31/26,07/31/26,,,FALSE,TRUE,07/31/26,,,FREE,BUSY
+08/01/26,,,Twins at Mariners - Time TBD,T-Mobile Park - Seattle,"",08/01/26,08/01/26,,,FALSE,TRUE,08/01/26,,,FREE,BUSY
+08/02/26,,,Twins at Mariners - Time TBD,T-Mobile Park - Seattle,"",08/02/26,08/02/26,,,FALSE,TRUE,08/02/26,,,FREE,BUSY
+08/04/26,,,Twins at Royals - Time TBD,Kauffman Stadium - Kansas City,"",08/04/26,08/04/26,,,FALSE,TRUE,08/04/26,,,FREE,BUSY
+08/05/26,,,Twins at Royals - Time TBD,Kauffman Stadium - Kansas City,"",08/05/26,08/05/26,,,FALSE,TRUE,08/05/26,,,FREE,BUSY
+08/06/26,,,Twins at Royals - Time TBD,Kauffman Stadium - Kansas City,"",08/06/26,08/06/26,,,FALSE,TRUE,08/06/26,,,FREE,BUSY
+08/07/26,,,Twins at Brewers - Time TBD,American Family Field - Milwaukee,"",08/07/26,08/07/26,,,FALSE,TRUE,08/07/26,,,FREE,BUSY
+08/08/26,,,Twins at Brewers - Time TBD,American Family Field - Milwaukee,"",08/08/26,08/08/26,,,FALSE,TRUE,08/08/26,,,FREE,BUSY
+08/09/26,,,Twins at Brewers - Time TBD,American Family Field - Milwaukee,"",08/09/26,08/09/26,,,FALSE,TRUE,08/09/26,,,FREE,BUSY
+08/10/26,,,Orioles at Twins - Time TBD,Target Field - Minneapolis,"",08/10/26,08/10/26,,,FALSE,TRUE,08/10/26,,,FREE,BUSY
+08/11/26,,,Orioles at Twins - Time TBD,Target Field - Minneapolis,"",08/11/26,08/11/26,,,FALSE,TRUE,08/11/26,,,FREE,BUSY
+08/12/26,,,Orioles at Twins - Time TBD,Target Field - Minneapolis,"",08/12/26,08/12/26,,,FALSE,TRUE,08/12/26,,,FREE,BUSY
+08/14/26,,,Phillies at Twins - Time TBD,Target Field - Minneapolis,"",08/14/26,08/14/26,,,FALSE,TRUE,08/14/26,,,FREE,BUSY
+08/15/26,,,Phillies at Twins - Time TBD,Target Field - Minneapolis,"",08/15/26,08/15/26,,,FALSE,TRUE,08/15/26,,,FREE,BUSY
+08/16/26,,,Phillies at Twins - Time TBD,Target Field - Minneapolis,"",08/16/26,08/16/26,,,FALSE,TRUE,08/16/26,,,FREE,BUSY
+08/17/26,,,Braves at Twins - Time TBD,Target Field - Minneapolis,"",08/17/26,08/17/26,,,FALSE,TRUE,08/17/26,,,FREE,BUSY
+08/18/26,,,Braves at Twins - Time TBD,Target Field - Minneapolis,"",08/18/26,08/18/26,,,FALSE,TRUE,08/18/26,,,FREE,BUSY
+08/19/26,,,Braves at Twins - Time TBD,Target Field - Minneapolis,"",08/19/26,08/19/26,,,FALSE,TRUE,08/19/26,,,FREE,BUSY
+08/21/26,,,Twins at Padres - Time TBD,Petco Park - San Diego,"",08/21/26,08/21/26,,,FALSE,TRUE,08/21/26,,,FREE,BUSY
+08/22/26,,,Twins at Padres - Time TBD,Petco Park - San Diego,"",08/22/26,08/22/26,,,FALSE,TRUE,08/22/26,,,FREE,BUSY
+08/23/26,,,Twins at Padres - Time TBD,Petco Park - San Diego,"",08/23/26,08/23/26,,,FALSE,TRUE,08/23/26,,,FREE,BUSY
+08/24/26,,,Twins at Athletics - Time TBD,Sutter Health Park - Sacramento,"",08/24/26,08/24/26,,,FALSE,TRUE,08/24/26,,,FREE,BUSY
+08/25/26,,,Twins at Athletics - Time TBD,Sutter Health Park - Sacramento,"",08/25/26,08/25/26,,,FALSE,TRUE,08/25/26,,,FREE,BUSY
+08/26/26,,,Twins at Athletics - Time TBD,Sutter Health Park - Sacramento,"",08/26/26,08/26/26,,,FALSE,TRUE,08/26/26,,,FREE,BUSY
+08/28/26,,,White Sox at Twins - Time TBD,Target Field - Minneapolis,"",08/28/26,08/28/26,,,FALSE,TRUE,08/28/26,,,FREE,BUSY
+08/29/26,,,White Sox at Twins - Time TBD,Target Field - Minneapolis,"",08/29/26,08/29/26,,,FALSE,TRUE,08/29/26,,,FREE,BUSY
+08/30/26,,,White Sox at Twins - Time TBD,Target Field - Minneapolis,"",08/30/26,08/30/26,,,FALSE,TRUE,08/30/26,,,FREE,BUSY
+08/31/26,,,Tigers at Twins - Time TBD,Target Field - Minneapolis,"",08/31/26,08/31/26,,,FALSE,TRUE,08/31/26,,,FREE,BUSY
+09/01/26,,,Tigers at Twins - Time TBD,Target Field - Minneapolis,"",09/01/26,09/01/26,,,FALSE,TRUE,09/01/26,,,FREE,BUSY
+09/02/26,,,Tigers at Twins - Time TBD,Target Field - Minneapolis,"",09/02/26,09/02/26,,,FALSE,TRUE,09/02/26,,,FREE,BUSY
+09/04/26,,,Twins at White Sox - Time TBD,Rate Field - Chicago,"",09/04/26,09/04/26,,,FALSE,TRUE,09/04/26,,,FREE,BUSY
+09/05/26,,,Twins at White Sox - Time TBD,Rate Field - Chicago,"",09/05/26,09/05/26,,,FALSE,TRUE,09/05/26,,,FREE,BUSY
+09/06/26,,,Twins at White Sox - Time TBD,Rate Field - Chicago,"",09/06/26,09/06/26,,,FALSE,TRUE,09/06/26,,,FREE,BUSY
+09/07/26,,,Twins at Tigers - Time TBD,Comerica Park - Detroit,"",09/07/26,09/07/26,,,FALSE,TRUE,09/07/26,,,FREE,BUSY
+09/08/26,,,Twins at Tigers - Time TBD,Comerica Park - Detroit,"",09/08/26,09/08/26,,,FALSE,TRUE,09/08/26,,,FREE,BUSY
+09/09/26,,,Twins at Tigers - Time TBD,Comerica Park - Detroit,"",09/09/26,09/09/26,,,FALSE,TRUE,09/09/26,,,FREE,BUSY
+09/11/26,,,Guardians at Twins - Time TBD,Target Field - Minneapolis,"",09/11/26,09/11/26,,,FALSE,TRUE,09/11/26,,,FREE,BUSY
+09/12/26,,,Guardians at Twins - Time TBD,Target Field - Minneapolis,"",09/12/26,09/12/26,,,FALSE,TRUE,09/12/26,,,FREE,BUSY
+09/13/26,,,Guardians at Twins - Time TBD,Target Field - Minneapolis,"",09/13/26,09/13/26,,,FALSE,TRUE,09/13/26,,,FREE,BUSY
+09/14/26,,,Yankees at Twins - Time TBD,Target Field - Minneapolis,"",09/14/26,09/14/26,,,FALSE,TRUE,09/14/26,,,FREE,BUSY
+09/15/26,,,Yankees at Twins - Time TBD,Target Field - Minneapolis,"",09/15/26,09/15/26,,,FALSE,TRUE,09/15/26,,,FREE,BUSY
+09/16/26,,,Yankees at Twins - Time TBD,Target Field - Minneapolis,"",09/16/26,09/16/26,,,FALSE,TRUE,09/16/26,,,FREE,BUSY
+09/17/26,,,Twins at Angels - Time TBD,Angel Stadium - Anaheim,"",09/17/26,09/17/26,,,FALSE,TRUE,09/17/26,,,FREE,BUSY
+09/18/26,,,Twins at Angels - Time TBD,Angel Stadium - Anaheim,"",09/18/26,09/18/26,,,FALSE,TRUE,09/18/26,,,FREE,BUSY
+09/19/26,,,Twins at Angels - Time TBD,Angel Stadium - Anaheim,"",09/19/26,09/19/26,,,FALSE,TRUE,09/19/26,,,FREE,BUSY
+09/20/26,,,Twins at Angels - Time TBD,Angel Stadium - Anaheim,"",09/20/26,09/20/26,,,FALSE,TRUE,09/20/26,,,FREE,BUSY
+09/21/26,,,Twins at Giants - Time TBD,Oracle Park - San Francisco,"",09/21/26,09/21/26,,,FALSE,TRUE,09/21/26,,,FREE,BUSY
+09/22/26,,,Twins at Giants - Time TBD,Oracle Park - San Francisco,"",09/22/26,09/22/26,,,FALSE,TRUE,09/22/26,,,FREE,BUSY
+09/23/26,,,Twins at Giants - Time TBD,Oracle Park - San Francisco,"",09/23/26,09/23/26,,,FALSE,TRUE,09/23/26,,,FREE,BUSY
+09/25/26,,,Rangers at Twins - Time TBD,Target Field - Minneapolis,"",09/25/26,09/25/26,,,FALSE,TRUE,09/25/26,,,FREE,BUSY
+09/26/26,,,Rangers at Twins - Time TBD,Target Field - Minneapolis,"",09/26/26,09/26/26,,,FALSE,TRUE,09/26/26,,,FREE,BUSY
+09/27/26,,,Rangers at Twins - Time TBD,Target Field - Minneapolis,"",09/27/26,09/27/26,,,FALSE,TRUE,09/27/26,,,FREE,BUSY

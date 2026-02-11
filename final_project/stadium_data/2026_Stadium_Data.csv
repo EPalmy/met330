@@ -1,0 +1,31 @@
+Ballpark,Team,Latitude,Longitude,Altitude (ft),Angle_C,HR_Dist_L,HR_Dist_C,HR_DIST_R,Roof,Better Angle
+American Family Field,Brewers,43.028889,-87.971111,593,305,344,400,345,TRUE,None
+Angel Stadium,Angels,33.800278,-117.882778,160,225,347,396,350,FALSE,None
+Busch Stadium,Cardinals,38.6225,-90.193056,455,243,336,400,335,FALSE,None
+Chase Field,Diamondbacks,33.445278,-112.066944,1082,180,330,407,334,TRUE,None
+Citi Field,Mets,40.756944,-73.845833,54,194,335,408,330,FALSE,None
+Citizens Bank Park,Phillies,39.905833,-75.166389,9,170,329,401,330,FALSE,Left
+Comerica Park,Tigers,42.339167,-83.048611,596,331,345,420,330,FALSE,None
+Coors Field,Rockies,39.7561,-104.9942,5183,175,347,415,350,FALSE,None
+Daikin Park,Astros,29.7572,-95.3552,38,165,315,409,326,TRUE,None
+Dodger Stadium,Dodgers,34.0739,-118.24,267,207,330,395,330,FALSE,None
+Fenway Park,Red Sox,42.3467,-71.0972,20,224,310,389,302,FALSE,Left
+Globe Life Field,Rangers,32.7469,-97.0832,616,0,329,407,326,TRUE,Right
+Great American Ball Park,Reds,39.0974,-84.5071,683,303,328,404,325,FALSE,Right
+Kauffman Stadium,Royals,39.0515,-94.4805,750,226,330,410,330,FALSE,None
+LoanDepot Park,Marlins,25.7781,-80.2196,15,308,344,418,335,TRUE,None
+Nationals Park,Nationals,38.873,-77.0074,25,209,336,402,335,FALSE,Left
+Oracle Park,Giants,37.7784,-122.3892,63,275,339,399,309,FALSE,None
+Oriole Park,Orioles,39.2838,-76.6217,130,212,333,400,318,FALSE,None
+Petco Park,Padres,32.7076,-117.157,13,180,336,396,322,FALSE,None
+PNC Park,Pirates,40.4475,-80.0072,743,297,325,405,325,FALSE,Right
+Progressive Field,Guardians,41.4959,-81.6853,582,180,325,405,325,FALSE,Right
+Rate Field,White Sox,41.8299,-87.6337,596,305,330,400,335,FALSE,None
+Rogers Centre,Blue Jays,43.6423,-79.3902,247,165,328,400,328,TRUE,None
+Sutter Health Park,Athletics,38.5798,-121.5148,26,226,330,403,325,FALSE,None
+T-Mobile Park,Mariners,47.5915,-122.3326,10,230,331,401,326,TRUE,None
+Target Field,Twins,44.9817,-93.2776,812,270,339,404,328,FALSE,Left
+Tropicana Field,Rays,27.7681,-82.6534,26,215,315,404,322,TRUE,None
+Truist Park,Braves,33.891,-84.4683,1050,158,335,401,330,FALSE,None
+Wrigley Field,Cubs,41.9484,-87.6553,596,218,355,400,353,FALSE,None
+Yankee Stadium,Yankees,40.8296,-73.9262,54,255,318,408,314,FALSE,None

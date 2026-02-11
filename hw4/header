@@ -1,0 +1,25 @@
+netcdf scm_output {
+dimensions:
+	TIME = UNLIMITED ; // (289 currently)
+	Z = 241 ;
+variables:
+	float Time(TIME) ;
+		Time:long_name = "Seconds since model start" ;
+		Time:unit = "s" ;
+	float Height(Z) ;
+		Height:long_name = "Model grid height" ;
+		Height:unit = "m" ;
+	float U(TIME, Z) ;
+		U:long_name = "U component of wind" ;
+		U:unit = "m s-1" ;
+	float V(TIME, Z) ;
+		V:long_name = "V component of wind" ;
+		V:unit = "m s-1" ;
+	float W(TIME, Z) ;
+		W:long_name = "W component of wind" ;
+		W:unit = "m s-1" ;
+
+// global attributes:
+		:Latitude = 0.698131700797732 ;
+		:Input_Sounding = "./input_sounding.txt" ;
+}
